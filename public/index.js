@@ -25,20 +25,45 @@
 
 //bar graph
 
-var dataset2 = [80,100,56,120,40, 120, 160];
+// var dataset2 = [80, 100, 56, 120, 40, 120, 160];
+var dataset2 = [8, 10, 5, 12, 4, 12, 16];
 
 var svgWidth = 500, svgHeight = 300, barPadding = 5;
-var barWidth = svgWidth/dataset2.length;
-var svg = d3.select('svg').attr("width", svgWidth).attr("height", svgHeight);
+var barWidth = (svgWidth / dataset2.length);
 
-var barChart = svg.selectAll("rect").data(dataset2).enter().append("rect").attr("y", function(d){
-    return svgHeight - d;
-}).attr("width", barWidth - barPadding).attr("class", "bar").attr("transform", function (d, i){
+var svg = d3.select('svg')
+.attr("width", svgWidth)
+.attr("height", svgHeight);
+
+
+var yScale = d3.scaleLinear()
+.domain([0, d3.max(dataset2)])
+.range([0, svgHeight]);
+
+
+var barChart = svg.selectAll("rect")
+.data(dataset2)
+.enter()
+.append("rect")
+.attr("y", function(d){
+    return svgHeight - yScale(d)
+})
+.attr("height", function(d){
+    return yScale(d);
+})
+.attr("width", barWidth - barPadding)
+// .attr("class", "bar")
+.attr("transform", function (d, i){
     var translate = [barWidth * i, 0];
     return "translate("+translate+")";
+    //translate lets us move the bars over (obvi otherwise you couldn't see them)
 });
 
-var text = svg.selectAll("text").data(dataset2).enter().append("text").text(function(d){
+var text = svg.selectAll("text")
+.data(dataset2)
+.enter()
+.append("text")
+.text(function(d){
     return d
 }).attr("y", function(d, i){
     return svgHeight - d - 2;
