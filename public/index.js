@@ -1,6 +1,8 @@
 //adds my lovely title to the DOM
-d3.select('h1').style('color', 'blue')
-.attr('class', 'heading').text('My First D3 Website');
+d3.select('h1').style('color', 'white')
+.style('font-family', 'sans-serif')
+.attr('class', 'heading')
+.text('My First D3 Website');
 
 // var dataset;
 // var parseTime = d3.timeParse("%Y-%m-%d %H:%M:%S");
@@ -131,6 +133,7 @@ var barChart = svg2.selectAll("rect")
     .data(dataset2)
     .enter()
     .append("rect")
+    .attr("fill", "lightblue")
     .attr("y", function(d) {
          return svgHeight - d 
     })
@@ -170,6 +173,7 @@ svg.selectAll("circle")
    .data(dataset)
    .enter()
    .append("circle")
+   .attr("fill", "rgba(154, 46, 122)")
    .attr("cx", function(d) {
            return d[0];
    })
