@@ -1,0 +1,851 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+726027614,2016-06-11 18:42:35,Afternoon Swim,Swim,"",272,3.8,false,,activities/800219055.fit.gz
+726027617,2016-06-12 11:42:50,Morning Swim,Swim,"",1428,1608.6,false,,activities/800219056.fit.gz
+726027623,2016-06-12 12:06:40,Morning Activity,Workout,"",369,783.0,,,activities/800219058.fit.gz
+726027627,2016-06-12 13:27:41,Morning Activity,Workout,"",132,158.1,,,activities/800219067.fit.gz
+726027631,2016-06-12 12:12:52,Morning Ride,Ride,"",4482,37540.6,false,,activities/800219062.fit.gz
+726027638,2016-06-12 13:29:56,Morning Run,Run,"",2531,8076.8,false,,activities/800219068.fit.gz
+726027644,2016-06-18 12:12:11,Morning Swim,Swim,"",628,421.2,false,,activities/800219084.fit.gz
+726027647,2016-06-14 23:32:06,Evening Run,Run,"",3433,9584.1,false,,activities/800219070.fit.gz
+726027648,2016-06-18 01:47:50,Night Run,Run,"",3557,3786.0,false,,activities/800219083.fit.gz
+726027650,2016-06-18 13:03:15,Morning Activity,Workout,"",21,84.2,,,activities/800219091.fit.gz
+726027655,2016-06-18 13:03:41,Morning Run,Run,"",1315,4833.4,false,,activities/800219094.fit.gz
+726027658,2016-06-18 12:22:42,Morning Activity,Workout,"",244,443.0,,,activities/800219086.fit.gz
+726027666,2016-06-19 15:04:08,Lunch Run,Run,"",2839,6520.1,false,,activities/800219103.fit.gz
+726027677,2016-06-21 12:56:36,Morning Ride,Ride,"",2058,10684.6,true,,activities/800219111.fit.gz
+726027679,2016-06-18 12:26:47,Morning Ride,Ride,"",2170,18600.1,false,,activities/800219089.fit.gz
+726027681,2016-06-21 22:29:08,Evening Ride,Ride,"",2342,11281.9,true,,activities/800219112.fit.gz
+726027682,2016-06-23 22:32:25,Evening Ride,Ride,"",2342,6742.6,true,,activities/800219115.fit.gz
+726027683,2016-06-19 10:44:12,Morning Run,Run,"",7918,23194.8,false,,activities/800219100.fit.gz
+726027692,2016-06-27 10:15:18,Morning Swim,Swim,"",3333,1725.0,false,,activities/800219127.fit.gz
+726027693,2016-06-23 12:52:07,Morning Ride,Ride,"",2278,11879.3,true,,activities/800219114.fit.gz
+726027697,2016-06-23 23:18:44,Evening Run,Run,"",4231,10262.9,false,,activities/800219118.fit.gz
+726027698,2016-07-11 23:27:22,Evening Swim,Swim,"",2276,1600.0,false,,activities/800219139.fit.gz
+726027704,2016-07-11 22:34:05,Evening Ride,Ride,"",1835,8685.2,true,,activities/800219136.fit.gz
+726027707,2016-07-11 12:42:56,Morning Ride,Ride,"",2331,11131.8,true,,activities/800219133.fit.gz
+726027712,2016-06-30 23:39:50,Evening Run,Run,"",2587,7657.9,false,,activities/800219131.fit.gz
+726027713,2016-06-25 23:32:33,Evening Ride,Ride,"",1084,5381.9,true,,activities/800219124.fit.gz
+726027721,2016-06-25 10:26:27,Morning Run,Run,"",16769,26204.9,false,,activities/800219121.fit.gz
+726027730,2016-06-16 10:07:32,Morning Ride,Ride,"",6144,29469.2,false,,activities/800219080.fit.gz
+726027774,2016-06-20 23:58:54,Evening Ride,Ride,"",3789,24507.2,false,,activities/800219109.fit.gz
+726033185,2016-07-12 00:35:00,Evening Ride,Ride,"",1392,8381.9,true,,activities/800225573.fit.gz
+726033186,2016-07-12 12:37:42,Morning Ride,Ride,"",2376,11160.4,true,,activities/800225576.fit.gz
+726033187,2016-07-12 22:25:04,Evening Ride,Ride,"",1717,8193.6,true,,activities/800225580.fit.gz
+726033213,2016-07-13 00:18:53,Evening Run,Run,"",276,687.8,false,,activities/800225588.fit.gz
+726033214,2016-07-12 23:02:39,Evening Run,Run,"",4364,11185.6,false,,activities/800225583.fit.gz
+726033215,2016-07-17 15:31:48,Lunch Swim,Swim,"",2132,800.0,false,,activities/800225629.fit.gz
+726033216,2016-07-17 14:59:31,Morning Run,Run,"",1201,3529.7,false,,activities/800225626.fit.gz
+726033228,2016-07-17 16:28:54,Lunch Run,Run,"",1206,3481.7,false,,activities/800225639.fit.gz
+726033230,2016-07-18 00:23:26,Evening Ride,Ride,"",2019,9005.2,false,,activities/800225645.fit.gz
+726033235,2016-07-16 10:25:40,Morning Run,Run,"",10202,27354.3,false,,activities/800225624.fit.gz
+726033261,2016-07-22 11:02:55,Morning Run,Run,"",1658,5131.8,false,,activities/800225666.fit.gz
+726033264,2016-07-19 11:25:02,Morning Run,Run,"",4028,12497.4,true,,activities/800225662.fit.gz
+726033265,2016-07-24 10:51:56,Morning Swim,Swim,"",1227,1536.6,false,,activities/800225669.fit.gz
+726033277,2016-07-24 11:12:45,Morning Activity,Workout,"",341,805.8,,,activities/800225681.fit.gz
+726033317,2016-07-24 11:18:29,Morning Ride,Ride,"",4938,41598.3,false,,activities/800225693.fit.gz
+726033322,2016-07-18 10:12:28,Morning Ride,Ride,"",3812,22030.9,false,,activities/800225649.fit.gz
+726033331,2016-07-24 12:41:36,Morning Activity,Workout,"",12,9.8,,,activities/800225700.fit.gz
+726033354,2016-07-24 12:41:50,Morning Run,Run,"",2359,8205.4,false,,activities/800225741.fit.gz
+726033374,2016-07-27 09:21:24,Morning Run,Run,"",9706,27415.7,false,,activities/800225752.fit.gz
+726033380,2016-07-28 23:36:29,Evening Run,Run,"",977,3287.0,false,,activities/800225756.fit.gz
+726033417,2016-07-30 11:30:50,Morning Run,Run,"",2233,8146.8,false,,activities/800225792.fit.gz
+726033421,2016-08-13 15:27:00,Morning Swim,Swim,"",2235,1577.4,false,,activities/800225846.fit.gz
+726033427,2016-07-30 13:45:46,Morning Run,Run,"",1311,3276.6,false,,activities/800225813.fit.gz
+726033430,2016-08-13 16:04:17,Lunch Activity,Workout,"",225,476.3,,,activities/800225854.fit.gz
+726033438,2016-08-13 17:31:03,Lunch Activity,Workout,"",54,168.6,,,activities/800225868.fit.gz
+726033451,2016-08-15 09:14:57,Morning Run,Run,"",439,1270.4,false,,activities/800225872.fit.gz
+726033453,2016-08-11 23:14:32,Evening Run,Run,"",3730,9359.3,false,,activities/800225837.fit.gz
+726033454,2016-08-13 17:31:58,Lunch Run,Run,"",3150,10186.6,false,,activities/800225871.fit.gz
+726033461,2016-08-13 16:08:08,Lunch Ride,Ride,"",4957,40187.2,false,,activities/800225860.fit.gz
+726036351,2016-08-18 09:21:31,Morning Run,Run,"",9882,23990.3,false,,activities/800228980.fit.gz
+726036355,2016-08-27 09:27:03,Morning Run,Run,"",1965,4832.1,false,,activities/800229016.fit.gz
+726036359,2016-08-26 22:15:08,Evening Run,Run,"",4824,8487.7,false,,activities/800229015.fit.gz
+726036363,2016-08-20 10:24:29,Morning Run,Run,"",14219,37111.4,false,,activities/800228987.fit.gz
+726036366,2016-08-23 22:49:58,Evening Run,Run,"",5619,15493.2,false,,activities/800228991.fit.gz
+726036370,2016-08-27 19:20:47,Afternoon Run,Run,"",5181,11486.3,false,,activities/800229021.fit.gz
+726036371,2016-08-28 20:12:12,Afternoon Run,Run,"",1737,4135.9,false,,activities/800229025.fit.gz
+726036379,2016-08-24 08:44:28,Morning Run,Run,"",12314,32570.2,false,,activities/800229011.fit.gz
+726036380,2016-08-28 22:39:42,Evening Run,Run,"",3438,8897.2,false,,activities/800229035.fit.gz
+726036383,2016-08-31 12:42:57,Morning Run,Run,"",2761,6449.2,false,,activities/800229043.fit.gz
+726036386,2016-08-30 23:19:38,Evening Run,Run,"",3912,12568.3,false,,activities/800229039.fit.gz
+726036388,2016-06-04 22:42:37,Evening Ride,Ride,"",1372,6541.1,false,,activities/800229054.fit.gz
+726036389,2016-09-22 23:38:28,Evening Run,Run,"",1954,5520.9,false,,activities/800229047.fit.gz
+726036394,2016-07-02 18:16:22,Afternoon Run,Run,"",2276,5656.7,false,,activities/800229062.fit.gz
+726036395,2016-06-07 02:38:42,Night Run,Run,"",2399,6825.5,false,,activities/800229057.fit.gz
+726036397,2016-09-25 12:08:10,Morning Run,Run,"",9698,24208.0,false,,activities/800229051.fit.gz
+726036411,2016-08-02 20:20:30,Afternoon Swim,Swim,"",2378,1380.6,false,,activities/800229097.fit.gz
+726036417,2016-08-02 19:54:10,Afternoon Run,Run,"",1118,3245.6,false,,activities/800229093.fit.gz
+726036419,2016-08-02 21:18:32,Afternoon Run,Run,"",552,1536.5,false,,activities/800229099.fit.gz
+726036422,2016-07-04 14:15:41,Morning Run,Run,"",4373,12879.2,true,,activities/800229075.fit.gz
+726036438,2016-07-05 22:53:11,Evening Run,Run,"",15354,22151.4,false,,activities/800229082.fit.gz
+726038792,2016-08-04 23:18:08,Evening Run,Run,"",3467,8792.0,false,,activities/800231675.fit.gz
+726038796,2016-06-04 13:46:04,Morning Run,Run,"",5576,11779.9,false,,activities/800231686.fit.gz
+726038801,2016-08-06 17:15:07,Afternoon Run,Run,"",9943,27362.9,false,,activities/800231684.fit.gz
+726038817,2016-07-02 12:24:19,Morning Run,Run,"",9877,18282.9,false,,activities/800231711.fit.gz
+726038827,2016-06-05 13:11:38,Morning Ride,Ride,"",4837,19037.7,false,,activities/800231698.fit.gz
+726038835,2016-09-03 12:10:02,Morning Run,Run,"",362,1595.6,false,,activities/800231748.fit.gz
+726038836,2016-09-03 11:28:54,Morning Run,Run,"",1082,2904.3,false,,activities/800231746.fit.gz
+726038837,2016-07-07 11:28:41,Morning Run,Run,"",3714,11378.4,true,,activities/800231727.fit.gz
+726038846,2016-07-09 12:08:03,Morning Run,Run,"",12527,19398.9,false,,activities/800231732.fit.gz
+726038884,2016-09-04 10:18:41,Morning Run,Run,"",11462,32268.3,false,,activities/800231752.fit.gz
+726038973,2016-06-05 10:31:32,Morning Ride,Ride,"",5002,30581.9,false,,activities/800231693.fit.gz
+726039014,2016-07-03 11:55:46,Morning Ride,Ride,"",20256,87651.4,false,,activities/800231718.fit.gz
+728400290,2016-09-28 19:31:19,Afternoon Run,Run,,4389,11084.5,false,,activities/802936087.fit.gz
+729428181,2016-09-29 23:37:57,Thursday Night Track ❤️,Run,"",2433,7225.8,false,,activities/804125506.fit.gz
+731008842,2016-09-30 20:30:10,Yellow + Red loops,Run,"",7932,19235.1,false,,activities/805924333.fit.gz
+731009468,2016-10-01 04:27:59,Green + Yellow loops,Run,"",6844,15133.0,false,,activities/805925030.fit.gz
+731010190,2016-10-01 12:54:26,Red + Green loops,Run,"",7111,16639.9,false,,activities/805925794.fit.gz
+741666296,2016-10-09 12:35:15,Staten Island Half,Run,"",5840,21321.5,false,,activities/818266147.fit.gz
+743995411,2016-10-13 23:24:07,Thursday Night Track,Run,"",3192,6829.7,false,,activities/820964517.fit.gz
+744180957,2016-10-14 10:43:41,Morning Ride,Ride,,683,2984.9,false,,activities/821199634.fit.gz
+744197753,2016-10-14 11:07:01,Donut Run,Run,"",1096,2772.4,false,,activities/821219778.fit.gz
+744867573,2016-10-15 02:31:25,Donut Ride Part 1,Ride,"",8198,23665.0,false,,activities/822076123.fit.gz
+744940206,2016-10-15 05:11:46,Donut Ride Part 2,Ride,"",8376,25364.8,false,,activities/822164026.fit.gz
+746851540,2016-10-16 12:33:27,Blue Line - Last 20M before NYC!,Run,"",10825,32295.5,false,,activities/824633538.fit.gz
+747423372,2016-10-16 21:59:10,Afternoon Ride,Ride,,2001,8769.8,false,,activities/825440572.fit.gz
+747467035,2016-10-17 10:07:39,Spinning out the long run  lactic acid ,Ride,"",4249,21959.9,false,,activities/825526325.fit.gz
+749068340,2016-10-18 22:56:39,Evening Ride,Ride,"",1881,8809.5,true,,activities/827399112.fit.gz
+749125120,2016-10-18 23:37:40,Tuesday Night Tempo,Run,"15min @ Half Marathon Pace around the asphalt loop - Recovery jog to the track
+4 x 800 @ 5k Pace, 400 recovery jog - Recovery jog back to the asphalt loop
+15min @ Half Marathon Pace",4057,12156.9,false,,activities/827461706.fit.gz
+749187098,2016-10-19 02:51:49,I run a lot slower after tacos and Tecate,Run,"",506,1424.4,true,,activities/827536442.fit.gz
+749440162,2016-10-19 09:56:13,Morning Ride,Ride,,5891,30361.5,false,,activities/827849983.fit.gz
+751093004,2016-10-20 23:19:39,Thursday Night Track,Run,"",4414,12517.2,false,,activities/829761137.fit.gz
+752346645,2016-10-22 11:34:42,Building up good weather karma,Run,Tired AF ,6558,17713.6,false,,activities/831239555.fit.gz
+756079895,2016-10-25 23:23:45,Evening Run,Run,,1048,2442.0,false,,activities/835508245.fit.gz
+756079938,2016-10-25 23:45:54,Evening Run,Run,,1716,5640.7,false,,activities/835508284.fit.gz
+756079942,2016-10-26 01:40:53,Night Run,Run,,560,1302.9,false,,activities/835508294.fit.gz
+760736069,2016-10-27 23:35:45,Evening Run,Run,,2076,5994.6,false,,activities/840934637.fit.gz
+760736205,2016-10-30 12:11:17,Poland Spring / last longish run before NYC MARATHON,Run,"",3533,10011.0,false,,activities/840934715.fit.gz
+762482506,2016-10-31 23:39:48,Halloween yoga to KCBC,Run,"",679,1305.0,false,,activities/842994350.fit.gz
+762512595,2016-11-01 12:14:47,Morning Run,Run,,863,2257.4,false,,activities/843029124.fit.gz
+763199368,2016-11-01 23:19:14,Tuesday Night Tempo,Run,"",3812,10068.4,false,,activities/843794838.fit.gz
+765211031,2016-11-03 23:16:16,Thursday Night Track,Run,"",2747,7261.4,false,,activities/846127613.fit.gz
+766456377,2016-11-05 12:13:13,Shakeout run w/ Mama Hanley,Run,LAST RUN BEFORE THE NYC MARATHON,1483,2976.3,false,,activities/847577675.fit.gz
+768146690,2016-11-06 14:54:20,3:29:09 = BOSTON 2018 BABY,Run,"",12560,42528.1,false,,activities/849535562.fit.gz
+771559498,2016-11-10 17:16:08,Running with my arms,Run,"",3250,8784.0,false,,activities/853517314.fit.gz
+773100878,2016-11-12 11:53:27,Rock Creek Park + the Monuments,Run,"",3831,11696.8,false,,activities/855309782.fit.gz
+778095348,2016-11-17 14:56:34,Track by my lonesome ,Run,"",3530,9408.7,false,,activities/861110266.fit.gz
+780331027,2016-11-19 13:49:53,Morning Run,Run,,8289,8862.3,false,,activities/863776144.fit.gz
+780907601,2016-11-20 12:38:23,Warm up,Run,"",2461,3647.4,false,,activities/864450753.fit.gz
+780907882,2016-11-20 13:30:34,Race to Deliver 4M,Run,"",1694,6488.8,false,,activities/864451018.fit.gz
+782432239,2016-11-22 11:16:26,Baby's first Tigerwolves/AM Tempo ,Run,"2 x 2 Mile at 10K to Half Marathon Pace. 
+
+-Warm up to Franklin and Quay 
+- 2 Miles at 10K to Half Marathon pace up the Kent Motor Speedway 
+- 2 Minutes rest (turn around at 1 minute)
+- 2 Miles at 10k to Half Marathon pace back to Franklin and Quay 
+- High Fives and cool down to the track.
+IT WAS SNOWING",5284,12919.1,false,,activities/866280341.fit.gz
+786140227,2016-11-26 14:53:15,Pre-brunch yog w/ Micha + James,Run,"",1931,5993.7,false,,activities/870464907.fit.gz
+787184744,2016-11-27 12:50:47,Carbohydrated Sunday Runday,Run,N,8255,21237.5,false,,activities/871638831.fit.gz
+788300796,2016-11-28 17:05:42,Let's go get this Craigslist dresser,Run,"",719,1487.5,true,,activities/872872233.fit.gz
+788774612,2016-11-29 11:19:46,It-feels-like-spring mile repeats,Run,"Warm up to Franklin and Quay
+4  X 1 mile at 10 mile pace (or tempo pace if you prefer) with 60 sec. standing rest between each mile.  The turn around points will be Franklin/Quay and Kent/S 3rd
+Cool down back to the track",4459,12146.0,false,,activities/873437180.fit.gz
+790306956,2016-12-01 02:20:08,Quick tabata spin ,Ride,8-10 miles?,1802,0.0,false,,activities/875121163.fit.gz
+791092939,2016-12-02 00:15:53,Thursday Night Track,Run,4x(600m @ 10k / 100 float / 400 @ 5k / 100 float / 600 @ 10k) w/ 400 in between sets,3925,10765.5,false,,activities/875992580.fit.gz
+791699040,2016-12-02 20:16:52,Roomie Shakeout Run with Hannah,Run,"",2190,6441.4,false,,activities/876701080.fit.gz
+792362837,2016-12-03 14:31:21,Jingle Bell Jog/ last race of the season ,Run,"",1662,6471.6,false,,activities/877472827.fit.gz
+792404280,2016-12-03 15:39:42,Morning Run,Run,,383,683.2,false,,activities/877518656.fit.gz
+792498972,2016-12-03 15:54:55,"Run ""commute"" home from Jingle Bell",Run,"And yes, I forgot to take the bell off my shoe and jingled all the way* home. *bell lost on Vanderbilt, don't roll your ankle on him",5120,13715.9,true,,activities/877619640.fit.gz
+794164686,2016-12-05 10:27:06,Run/swim brick part 1,Run,"",2429,6392.1,true,,activities/879505741.fit.gz
+794164820,2016-12-05 11:23:20,Run/swim brick part 2 w/ Ellie,Swim,More like 1800,3210,1150.0,false,,activities/879505892.fit.gz
+797804885,2016-12-09 00:14:34,Thursday Night Track,Run,"",3126,8564.0,false,,activities/883602299.fit.gz
+797805000,2016-12-09 12:06:59,Donut ,Run,"",1253,3776.5,false,,activities/883602434.fit.gz
+800380624,2016-12-12 10:21:20,Rain or shine brick part 1/ run,Run,"",2463,7309.0,true,,activities/886503010.fit.gz
+800380765,2016-12-12 11:19:24,Rain or shine brick part 2/ swim w/Ellie,Swim,"700 wu
+16x50
+
+",2632,1400.0,false,,activities/886503161.fit.gz
+801861710,2016-12-14 01:56:31,5.22mi Run home from 中文課,Run,"",2973,6676.6,true,,activities/888118682.fit.gz
+802095022,2016-12-14 10:49:27,Run to Rockefeller Plaza ,Run,The most Christmasy run of all ,5619,13744.0,false,,activities/888427600.fit.gz
+802211378,2016-12-14 14:21:49,60min rollers to Love Actually,Ride,"10min wu
+5min cycle: 
+-1min easy @ 90rpm
+-2min 1 gear harder @ 90rpm
+-2min 2 gears harder @90+rpm
+Repeat 11x
+5min easy spin down ",4098,0.0,false,,activities/888555174.fit.gz
+802914036,2016-12-15 11:11:08,Drills drills drills w/GAT,Swim,"300 wu
+50x6 long pause stroke work
+Main set x2
+150 pull, stroke work
+2x75 hard swim
+100 kick
+300 cool down 
+",6492,1500.0,false,,activities/889366809.fit.gz
+803380510,2016-12-16 00:21:19,It was so cold my hydration pack froze,Run,"1600
+1200
+800
+600
+400
+200",3180,9254.8,false,,activities/889852025.fit.gz
+804766220,2016-12-17 18:31:21,60min rollers,Ride,"20min wu
+20 sec sprint > 2:40 on at 90rpm, repeated til end
+2min cool down ",4012,0.0,false,,activities/891456616.fit.gz
+805960139,2016-12-18 23:35:24,Dyker Heights Christmas Run ????????,Run,"",5313,15122.7,false,,activities/892771885.fit.gz
+807046551,2016-12-20 10:37:44,Run to Today Show + Rockefeller Tree w/Ellie ????????,Run,"",5549,16318.3,false,,activities/894036186.fit.gz
+812443246,2016-12-27 06:40:42,Morning Yog w/ Michaelene,Run,"",1494,4399.3,false,,activities/900115317.fit.gz
+814487260,2016-12-29 06:30:48,Tour de Budapest w/ Chris,Run,"",6398,19390.8,false,,activities/902373471.fit.gz
+818075964,2017-01-01 19:26:51,Afternoon Ride,Ride,,7006,30531.2,false,,activities/906320672.fit.gz
+818844941,2017-01-02 13:51:54,Unintentionally long run w/ Ellie,Run,"",9363,23651.6,false,,activities/907181574.fit.gz
+823356523,2017-01-06 20:03:28,yoga,Workout,,3600,0.0,false,,
+827407961,2017-01-10 14:17:25,Morning Run,Run,,3610,9951.1,false,,activities/916442907.fit.gz
+831462991,2017-01-13 21:02:31,"Rollers, brought to you by Parks & Rec",Ride,"",2608,0.0,false,,activities/920821563.fit.gz
+831625382,2017-01-14 13:21:29,Blue Point Brewery Run????,Run,"",4398,16163.3,false,,activities/920985640.fit.gz
+834538010,2017-01-17 00:57:02,Rollin' rollin' rollin',Ride,"",5989,0.0,false,,activities/924106489.fit.gz
+835660006,2017-01-18 01:53:35,Run home from 中文課,Run,"",3321,9387.1,true,,activities/925315278.fit.gz
+837689158,2017-01-19 22:32:36,Thursday Night Track early edition,Run,"",4207,12561.0,false,,activities/927773224.fit.gz
+838224217,2017-01-20 12:46:14,I ❤️salmon,Run,"",804,2378.2,true,,activities/928391151.fit.gz
+839302459,2017-01-21 12:54:40,#WingingIt,Run,"",7990,21410.9,false,,activities/929565075.fit.gz
+843375794,2017-01-25 00:25:02,Evening Run,Run,,4470,13085.6,false,,activities/933931335.fit.gz
+844612352,2016-11-04 11:37:29,Morning Run,Run,,1070,2579.9,false,,activities/935305364.fit.gz
+845401798,2017-01-26 21:26:16,1:22 not 0:44!! ,Ride,"",6434,141.2,false,,activities/936122534.fit.gz
+847638792,2017-01-28 23:40:42,Evening Ride,Ride,,8135,0.0,false,,activities/938573119.fit.gz
+848385129,2017-01-29 11:53:04,The long way to class w/Ellie,Run,"",11076,29020.1,false,,activities/939391298.fit.gz
+850465736,2017-01-31 13:21:44,solo tempo run = bamboo shoots up your fingernails,Run,"",4113,11276.2,false,,activities/941677056.fit.gz
+852249131,2017-02-01 12:00:45,Getting my om on,Workout,,3600,0.0,false,,
+852297450,2017-02-02 01:03:45,a tempo,Ride,"",5880,0.0,false,,activities/943612925.fit.gz
+852611154,2017-02-02 11:20:23,When you finally make it to AM track #AnotherOne,Run,"",4157,10796.2,false,,activities/943984261.fit.gz
+853784139,2017-02-03 14:03:20,1hr 19min à vélo ,Ride,"",4976,113.5,false,,activities/945242884.fit.gz
+854889556,2017-02-04 12:11:07,My Dad Wrote A Porno Episodes 1-3,Run,"",10229,26796.7,false,,activities/946450449.fit.gz
+856723819,2017-02-05 21:30:57,40 min recovery spin,Ride,"",2428,67.8,false,,activities/948406162.fit.gz
+858160796,2017-02-07 11:30:00,Tigerwolves Pulaski Bride Repeats ,Run,,2736,9173.28,false,,
+860093511,2017-02-09 01:24:28,a tempo. 1:19,Ride,"",4885,260.6,false,,activities/952021861.fit.gz
+860406880,2017-02-09 11:23:11,Hellkatz Blizzard 7x400,Run,"",2878,7141.3,false,,activities/952401000.fit.gz
+862033786,2017-02-10 23:57:04,Mixed set ~1.5hrs,Ride,"",5244,138.4,false,,activities/954118160.fit.gz
+862622865,2017-02-11 12:36:53,Nonstop talking w/ Nancy. Also we ran,Run,"",6682,18160.1,false,,activities/954781991.fit.gz
+863855244,2017-02-12 11:11:34,2:39 indoor ride. Thank god for Netflix.,Ride,"",9872,136.5,false,,activities/956120770.fit.gz
+865966362,2017-02-14 11:18:37,Tigerwolves V-Day Ice Cream Sandwich,Run,"Warm up 
+- 10 minutes at tempo pace
+- 2 minutes recovery
+- 6 x 1 minute on 1 minute off at 3-5k pace
+- 2 minutes recovery
+- 10 minutes at tempo pace
+- Cool down back to track/home",5199,14489.2,false,,activities/958396492.fit.gz
+867159173,2017-02-14 18:58:37,40min recovery spin,Ride,"",2417,20.4,false,,activities/959670982.fit.gz
+867262216,2017-02-15 13:43:36,1:30 mixed tempo set,Ride,"",5232,87.5,false,,activities/959775088.fit.gz
+868299083,2017-02-16 11:17:21,Hellcatz 10x300 plus cooldown miles,Run,"",4061,9666.4,false,,activities/960893792.fit.gz
+872933877,2017-02-19 21:39:40,Loving every second of this weather 🌇,Run,"",7393,19732.7,false,,activities/965828544.fit.gz
+874062380,2017-02-21 00:18:29,a tempo 1:40,Ride,"",5880,216.7,false,,activities/967051328.fit.gz
+874063845,2017-02-17 16:00:39,long salty ride 2:30,Ride,,9000,0.0,false,,
+874436127,2017-02-21 11:14:17,Tigerwolves 4M @ HMP,Run,"",5052,14487.9,false,,activities/967489127.fit.gz
+875647730,2017-02-22 11:13:41,Morning Ride,Ride,,5400,161.6,false,,activities/968789604.fit.gz
+876436933,2017-02-23 00:34:10,WNRR,Run,"",5246,10959.5,false,,activities/969601275.fit.gz
+876776300,2017-02-23 11:21:11,Hellkatz 4x800 + 4x400,Run,"",4751,11346.4,false,,activities/970007574.fit.gz
+879042138,2017-02-25 13:04:12,Al Gordon 4M,Run,"",1665,6437.4,false,,activities/972507193.fit.gz
+879135848,2017-02-25 13:56:44,Run to coffee w/ Angel,Run,"",3280,7488.6,false,,activities/972605005.fit.gz
+880948381,2017-02-26 19:15:59,Post-Gala Struggle,Run,"",2342,6550.2,false,,activities/974598854.fit.gz
+882589370,2017-02-28 11:19:07,Tigerwolves death by hill repeats,Run,"",4913,13682.9,false,,activities/976598321.fit.gz
+884372472,2017-03-02 01:06:12,1:30 tempo set,Ride,"",5160,274.0,false,,activities/978705004.fit.gz
+884798853,2017-03-02 11:18:22,Sometimes I forget to stop my watch for core,Run,"",4341,7957.6,false,,activities/979500133.fit.gz
+886037992,2017-03-03 11:58:25,Morning Ride,Ride,,4800,108.2,false,,activities/981547807.fit.gz
+887954067,2017-03-04 22:47:22,2:05 à vélo ,Ride,"",7562,500.8,false,,activities/984597838.fit.gz
+888653888,2017-03-05 11:51:35,SFR to Dough 🍩☕️,Run,"",5848,16150.4,false,,activities/985734099.fit.gz
+891696986,2017-03-08 00:18:26,Evening Run,Run,,5178,14944.7,false,,activities/989988192.fit.gz
+892782465,2017-03-08 22:15:09,1:20 tempo w/ mean 11min set at the end,Ride,"",4396,106.0,false,,activities/991161279.fit.gz
+892858985,2017-03-09 00:34:54,Failed attempt to catch WNRR,Run,"",1647,3579.8,false,,activities/991241504.fit.gz
+893271506,2017-03-09 11:17:49,Hellkatz 6x800,Run,"",4968,9697.1,false,,activities/991694058.fit.gz
+895889983,2017-03-11 12:36:49,Actually 12mi w/Narwhals 🙌🏼,Run,"",7019,17721.9,false,,activities/994494982.fit.gz
+896025559,2017-03-11 15:41:32,Devocion >>> home,Run,"",845,2408.8,false,,activities/994638049.fit.gz
+897875036,2017-03-12 17:47:00,Afternoon Run,Run,,3149,9862.2,false,,activities/996606608.fit.gz
+900615012,2017-03-15 00:13:33,1:30 tempo + 11min z4 set 😅,Ride,"",5400,122.2,false,,activities/999519018.fit.gz
+901033081,2017-03-15 11:09:39,1:38 mixed set,Ride,"",5930,238.6,false,,activities/999973770.fit.gz
+901752924,2017-03-15 21:31:07,Ice check over the bridge/trudging through snow ,Run,"",2927,8052.6,false,,activities/1000729927.fit.gz
+902260057,2017-03-16 10:19:57,Hellkatz choose bridge over frozen track tundra,Run,"",4804,12361.7,false,,activities/1001273999.fit.gz
+905514449,2017-03-18 13:09:44,Bridge run,Run,"",1896,4934.0,false,,activities/1004713516.fit.gz
+906166872,2017-03-19 11:34:42,#UnitedNYCHalf,Run,"",5839,21336.3,false,,activities/1005402037.fit.gz
+908876998,2017-03-21 10:18:46,Tigerwolves 7x1 min tempo,Run,"",5455,12888.6,false,,activities/1008277504.fit.gz
+910378903,2017-03-22 17:34:11,1:20 tempo,Ride,"",4800,121.4,false,,activities/1009837564.fit.gz
+910743731,2017-03-22 23:41:32,Yog back from 學校,Run,"",3044,8242.9,true,,activities/1010204963.fit.gz
+911111733,2017-03-23 10:17:08,5x800 @marathon pace ? Tuckered out 🍩,Run,"",4451,9740.8,false,,activities/1010588441.fit.gz
+913745076,2017-03-25 12:06:19,CP backwards to cheer on $10 10k w/ Ellie ,Run,"",7344,20788.8,false,,activities/1013306635.fit.gz
+916009406,2017-03-26 20:06:14,Afternoon Run,Run,,3839,11305.0,false,,activities/1015654920.fit.gz
+917408366,2017-03-28 00:55:22,Run (most of the way) home from 中文課,Run,"",2569,7173.4,true,,activities/1017095076.fit.gz
+917811514,2017-03-28 10:14:56,3x10min tempo 👻,Run,"",5442,14124.3,false,,activities/1017509373.fit.gz
+919264538,2017-03-29 10:58:02,1:20 tempo w/ bumps,Ride,"",4843,113.2,false,,activities/1018988663.fit.gz
+920548165,2017-03-29 16:25:59,Lunch Ride,Ride,,172,152.9,false,,activities/1020298733.fit.gz
+920548490,2017-03-30 10:21:41,Hellkatz ,Run,"",4623,7435.8,false,,activities/1020299039.fit.gz
+921862746,2017-03-31 09:37:13,1:16 block mix,Ride,"",4582,29255.7,false,,activities/1021645299.fit.gz
+923234211,2017-04-01 12:27:00,DC/VA loop,Run,"",2973,8534.3,false,,activities/1023063516.fit.gz
+924656642,2017-04-02 10:42:25,Morning Run,Run,,2282,3127.1,false,,activities/1024533399.fit.gz
+924875980,2017-04-02 11:34:53,Cherry Blossom 10M 🍒🌸,Run,"",4495,16302.2,false,,activities/1024760017.fit.gz
+925025244,2017-04-02 14:24:11,Cool down of death,Run,"",1396,3374.7,false,,activities/1024914937.fit.gz
+928541585,2017-04-04 23:55:16,No hills for moi,Run,"",2244,6655.0,false,,activities/1028525779.fit.gz
+928556859,2017-04-05 00:41:13,Yog home,Run,"",637,1784.1,false,,activities/1028541304.fit.gz
+929958200,2017-04-06 00:41:07,Power hour,Ride,"",3300,103.8,false,,activities/1029970896.fit.gz
+931136559,2017-04-06 22:56:54,Evening Run,Run,,655,941.6,false,,activities/1031183945.fit.gz
+931518519,2017-04-06 23:08:14,Tempo,Run,"",4861,13421.8,false,,activities/1031577230.fit.gz
+931578903,2017-04-07 10:06:58,Morning Ride,Ride,,3743,25108.3,false,,activities/1031639128.fit.gz
+933066273,2017-04-08 12:12:41,EVEPC cats run,Run,"",5321,14491.5,false,,activities/1033164199.fit.gz
+934520973,2017-04-09 10:36:21,Brick part 1,Ride,"",4140,27898.9,false,,activities/1034673228.fit.gz
+934613721,2017-04-09 12:13:50,Morning Ride,Ride,"",915,1789.3,true,,activities/1034768991.fit.gz
+934936149,2017-04-09 12:44:30,Brick part 2: run w/ Ellie 🏃🏻‍♀️🏃🏻‍♀️,Run,"",8833,25209.2,false,,activities/1035102589.fit.gz
+937397762,2017-04-11 10:19:06,Morning Run,Run,,3057,7897.0,false,,activities/1037649348.fit.gz
+938488010,2017-04-12 00:41:23,55 min indoor ride,Ride,"",3322,143.3,false,,activities/1038761930.fit.gz
+938789365,2017-04-12 09:41:05,Warm up to Prospect Park,Ride,"",1463,6938.2,false,,activities/1039071360.fit.gz
+938837350,2017-04-12 10:06:33,le workout,Ride,"",3048,24113.4,false,,activities/1039120467.fit.gz
+938877673,2017-04-12 10:58:06,le cooldown,Ride,"",2292,9854.5,false,,activities/1039161417.fit.gz
+941059455,2017-04-13 10:43:37,Tempo turned hill repeats ,Run,"",4573,13510.8,false,,activities/1041400065.fit.gz
+943957354,2017-04-15 21:25:26,Afternoon Ride,Ride,,5461,39747.7,false,,activities/1044411105.fit.gz
+944915132,2017-04-16 13:13:33,Easter long run w/Ellie. Avocado toast to follow,Run,"",6932,19551.8,false,,activities/1045398461.fit.gz
+946117926,2017-04-17 12:13:24,#CitiBike to work 🚲,Ride,"",2748,12459.7,true,,activities/1046639920.fit.gz
+946942556,2017-04-18 00:10:44,tempo attempt ,Ride,"",4602,32179.9,false,,activities/1047507621.fit.gz
+947336005,2017-04-18 10:11:29,5 x 1Ks,Run,"",4390,13860.8,false,,activities/1047896502.fit.gz
+948712157,2017-04-19 09:56:20,power hour,Ride,"",3372,23502.2,false,,activities/1049297630.fit.gz
+950124792,2017-04-20 09:59:21,Morning Run,Run,"",6039,17926.4,false,,activities/1050753339.fit.gz
+951517690,2017-04-21 12:23:59,Bike to werk,Ride,"",3189,13672.9,true,,activities/1052179394.fit.gz
+953055953,2017-04-22 13:00:56,Morning Ride,Ride,"",6471,42375.0,false,,activities/1053769904.fit.gz
+954926285,2017-04-23 14:07:11,Exploring ,Run,"",6951,19322.4,false,,activities/1055715987.fit.gz
+956901244,2017-04-25 00:21:14,Evening Ride,Ride,"",3812,26372.0,false,,activities/1057740678.fit.gz
+958319073,2017-04-25 23:48:41,Flashback to #RAINSTORM3000,Run,"",5496,18907.4,false,,activities/1059184925.fit.gz
+959654970,2017-04-27 00:40:34,double trouble: 1:10 bike,Ride,"",4140,6368.3,false,,activities/1060535765.fit.gz
+959691868,2017-04-27 02:17:10,double trouble: run,Run,"",2464,7162.0,false,,activities/1060573750.fit.gz
+960879505,2017-04-27 22:57:19,Thursday Night Track ❤️🍕🍻,Run,"",4598,11315.8,false,,activities/1061783473.fit.gz
+961383812,2017-04-28 11:29:14,Planting trees in Marine Park,Ride,"",4496,14059.3,true,,activities/1062299503.fit.gz
+961778512,2017-04-28 17:13:59,Bike back from Marine Park tree planting,Ride,"",5366,20311.2,true,,activities/1062701190.fit.gz
+962666952,2017-04-29 11:40:06,warm up,Ride,"",1885,7737.9,false,,activities/1063615531.fit.gz
+962876807,2017-04-29 12:12:43,long bike,Ride,"",7828,48634.7,false,,activities/1063831450.fit.gz
+963002273,2017-04-29 15:15:42,Lunch Ride,Ride,"",952,4107.3,true,,activities/1063962459.fit.gz
+963545555,2017-04-29 21:15:40,Run to Red Hook Crit,Run,"",3197,8579.6,true,,activities/1064535446.fit.gz
+964541971,2017-04-30 11:48:23,Sunday Funday Runday ,Run,"",7938,23617.0,false,,activities/1065552800.fit.gz
+965832548,2017-05-01 10:23:08,Morning Ride,Ride,,2402,111.4,false,,activities/1066904160.fit.gz
+966885246,2017-05-01 12:31:00,Bike month ride 1,Ride,"",2832,11097.3,false,,activities/1068024217.fit.gz
+966885344,2017-05-01 22:01:35,Bike month ride 2,Ride,"",1486,6506.8,false,,activities/1068024294.fit.gz
+967395618,2017-05-02 10:59:33,Tempo to work,Run,"",3497,11261.6,true,,activities/1068528583.fit.gz
+967404243,2017-05-02 11:59:01,When you accidentally stop your watch,Run,"",372,1014.1,true,,activities/1068537366.fit.gz
+967431815,2017-05-02 12:06:23,When you accidentally stop your watch a 2nd time,Run,"",1413,3806.7,true,,activities/1068565210.fit.gz
+968361626,2017-05-02 23:17:42,Bike month ride 3,Ride,"",2673,12077.4,true,,activities/1069528308.fit.gz
+969243313,2017-05-03 15:35:10,Bike month ride 4,Ride,"",1798,7501.8,false,,activities/1070404851.fit.gz
+970430735,2017-05-04 10:31:23,6 x 1K,Run,"",3317,11756.8,false,,activities/1071608001.fit.gz
+970505042,2017-05-04 11:39:33,Bike month ride 5,Ride,"",3316,12108.0,true,,activities/1071684649.fit.gz
+971328866,2017-05-04 22:24:26,Bike month ride 6,Ride,"",3059,11920.2,true,,activities/1072529153.fit.gz
+973491223,2017-05-06 12:57:03,H6H leg 5,Run,"",5381,15732.6,false,,activities/1074742893.fit.gz
+974015501,2017-05-06 19:30:17,H6H leg 11,Run,"",2487,7607.0,false,,activities/1075301642.fit.gz
+975741240,2017-05-07 18:11:53,Roomie relay shakeout & race recap,Run,"",2712,6461.8,false,,activities/1077110215.fit.gz
+979087727,2017-05-09 12:05:40,Bike month ride 7,Ride,"",2550,11472.8,false,,activities/1080590276.fit.gz
+979087966,2017-05-10 00:21:48,Run + foam roll w/ Nancy ,Run,"",3196,6638.0,false,,activities/1080590569.fit.gz
+979517126,2017-05-10 09:55:24,Doves Light,Run,"",4115,9719.2,false,,activities/1081137870.fit.gz
+980021792,2017-05-10 16:56:31,Bike month ride 8,Ride,"",1542,5345.3,false,,activities/1081710388.fit.gz
+980501909,2017-05-10 21:38:17,Bike month ride 9,Ride,"",1667,4976.0,false,,activities/1082254630.fit.gz
+981183796,2017-05-11 11:24:37,Bike month ride 10,Ride,"",2441,11455.6,false,,activities/1083072998.fit.gz
+982029896,2017-05-11 21:45:07,Afternoon Run,Run,,3666,11775.0,false,,activities/1084059207.fit.gz
+982053385,2017-05-11 22:51:16,Bike month ride 11,Ride,"",1290,2952.0,false,,activities/1084086979.fit.gz
+982785665,2017-05-12 12:57:44,Bike month ride 12,Ride,"",2356,11246.3,false,,activities/1084978851.fit.gz
+983466640,2017-05-13 00:16:00,Bike month ride 13,Ride,,2894,10299.8,true,,
+986406848,2017-05-14 16:43:10,Beautiful weather ☀️🌳🌷,Run,"",4268,12919.3,false,,activities/1089263775.fit.gz
+992027108,2017-05-17 10:58:50,Bike month ride 14,Ride,"",2779,11288.6,false,,activities/1094201344.fit.gz
+997420476,2017-05-20 11:05:23,"Brooklyn Half 🙌🏼 w/ Logan, superstar pacer",Run,"",5810,21322.1,false,,activities/1099575537.fit.gz
+1001748734,2017-05-23 12:27:24,Bike month ride 15,Ride,"",2665,11526.6,false,,activities/1104028626.fit.gz
+1003327426,2017-05-24 12:15:12,Bike month ride 16,Ride,"",2541,11458.4,false,,activities/1105649164.fit.gz
+1004361596,2017-05-25 02:30:30,Bike month ride 17,Ride,"",1979,7471.7,false,,activities/1106706464.fit.gz
+1012758044,2017-05-30 12:20:00,Bike month ride 18,Ride,"",3000,11265.4,true,Citi Bike,
+1013689502,2017-05-30 22:01:00,Bike month ride 19,Ride,"",3120,11587.3,true,Citi Bike,
+1014406369,2017-05-31 12:08:47,Bike to work month ride 20: jury duty edition,Ride,"",1560,5471.8,true,Citi Bike,
+1015174843,2017-05-31 22:41:00,Evening Run,Run,"",2322,6664.6,true,,activities/1117846231.fit.gz
+1015196141,2017-05-31 21:05:55,Bike month ride 21: civic duty #served ,Ride,"",1801,8046.7,true,Citi Bike,
+1018264466,2017-06-01 12:02:27,Morning Ride,Ride,,2843,11391.2,false,Citi Bike,activities/1121022545.fit.gz
+1018264479,2017-06-02 23:52:41,Evening Run,Run,,2908,7782.9,false,,activities/1121022564.fit.gz
+1018337394,2017-06-03 02:46:18,Night Ride,Ride,"",1896,9408.2,true,Citi Bike,activities/1121096957.fit.gz
+1019133227,2017-06-03 10:45:35,Morning Ride,Ride,,9363,51391.7,false,Citi Bike,activities/1121917902.fit.gz
+1021702498,2017-06-04 23:23:52,Evening Ride,Ride,,1906,9880.5,false,Citi Bike,activities/1124574177.fit.gz
+1044011422,2017-06-19 10:55:52,#CitiBike to work 🚲,Ride,"",2554,11453.6,true,Citi Bike,activities/1147391882.fit.gz
+1044012035,2017-06-06 02:01:48,Night Ride,Ride,,2283,11808.5,false,Citi Bike,activities/1147391407.fit.gz
+1044012214,2017-06-11 14:57:55,Morning Ride,Ride,,3814,12712.9,false,Citi Bike,activities/1147391581.fit.gz
+1044012348,2017-06-15 22:26:01,Evening Ride,Ride,,3006,10428.1,false,Citi Bike,activities/1147391720.fit.gz
+1044990358,2017-06-20 00:37:02,Evening Ride,Ride,,1402,5957.1,false,Citi Bike,activities/1148398645.fit.gz
+1045462783,2017-06-20 09:32:06,Back in the saddle again (actually 22mi),Ride,"",5602,30178.2,false,Citi Bike,activities/1148881408.fit.gz
+1045513824,2017-06-20 11:37:26,Morning Ride,Ride,,749,3607.6,false,Citi Bike,activities/1148934087.fit.gz
+1048222286,2017-06-21 10:27:40,Morning Ride,Ride,,17090,13839.6,false,Citi Bike,activities/1151697147.fit.gz
+1051915303,2017-06-24 12:30:17,Morning Run,Run,,2247,8121.0,false,,activities/1155481796.fit.gz
+1056423716,2017-06-27 11:26:59,Run commute part 1,Run,"",2963,8858.5,true,,activities/1056423716.gpx
+1056448048,2017-06-27 12:18:30,Bike commute - part 2,Ride,"",1057,4573.0,true,Citi Bike,activities/1056448048.gpx
+1058643132,2017-06-28 12:02:00,Morning Ride,Ride,"",2821,11848.1,true,Citi Bike,activities/1162366343.fit.gz
+1058648116,2017-06-26 12:31:16,Morning Ride,Ride,"",2855,11917.2,true,Citi Bike,activities/1162366146.fit.gz
+1058847322,2017-06-28 22:35:25,Evening Run,Run,,4000,11331.8,false,,activities/1162571823.fit.gz
+1059481263,2017-06-29 12:18:16,Morning Ride,Ride,"",2790,13020.4,true,Citi Bike,activities/1163212149.fit.gz
+1060206031,2017-06-29 22:05:12,Evening Ride,Ride,"",1187,5117.4,true,Citi Bike,activities/1163942174.fit.gz
+1060248469,2017-06-29 22:27:20,Evening Run,Run,"",2464,7073.3,true,,activities/1163984688.fit.gz
+1062444958,2017-06-30 10:47:43,Morning Ride,Ride,,3812,13066.7,false,Citi Bike,activities/1166215216.fit.gz
+1062445136,2017-07-01 12:51:24,Bridge Run ☕️❤️,Run,"",6413,8835.8,false,,activities/1166215405.fit.gz
+1064066075,2017-07-02 12:24:19,Morning Run,Run,,6241,16102.3,false,,activities/1167869527.fit.gz
+1065432712,2017-07-03 12:07:31,Morning Ride,Ride,,2442,11957.7,false,Citi Bike,activities/1169256792.fit.gz
+1067165171,2017-07-04 12:11:32,Tigerwolves 4th of July Edition 🇺🇸🏃🏻‍♀️,Run,"",5907,12719.4,false,,activities/1171008255.fit.gz
+1068711926,2017-07-05 12:28:22,Morning Ride,Ride,"",2538,11838.1,true,Citi Bike,activities/1172573547.fit.gz
+1069633090,2017-07-05 22:16:39,Evening Run,Run,,3024,8045.5,false,,activities/1173502262.fit.gz
+1069649951,2017-07-05 23:08:50,Evening Ride,Ride,,968,4229.2,false,Citi Bike,activities/1173519275.fit.gz
+1070377235,2017-07-06 12:39:30,Morning Ride,Ride,,3071,10943.0,false,Citi Bike,activities/1174257468.fit.gz
+1071188651,2017-07-06 22:17:01,Evening Ride,Ride,,2951,12267.9,false,Citi Bike,activities/1175074730.fit.gz
+1071305114,2017-07-06 23:13:30,Evening Run,Run,,3839,4972.9,false,,activities/1175191810.fit.gz
+1073326194,2017-07-08 10:59:30,Morning Run,Run,,7263,16235.9,false,,activities/1177236970.fit.gz
+1075701004,2017-07-09 11:05:46,Morning Ride,Ride,"",24262,93383.4,false,Sirène ,activities/1179652522.fit.gz
+1075802953,2017-07-07 22:05:00,Evening Ride,Ride,,3600,16093.5,true,Citi Bike,
+1076760723,2017-07-10 12:34:25,Morning Ride,Ride,,3529,11852.3,false,Citi Bike,activities/1180729907.fit.gz
+1077526771,2017-07-10 22:30:20,Evening Ride,Ride,,3273,12568.7,false,Citi Bike,activities/1181504832.fit.gz
+1079730016,2017-07-12 11:09:13,Pedaling yoghurt 🚲 😹,Ride,"",3179,7332.1,true,Citi Bike,activities/1183780338.fit.gz
+1079948924,2017-07-12 14:06:09,Morning Ride,Ride,,3481,7569.2,false,Citi Bike,activities/1184002180.fit.gz
+1081329782,2017-07-13 11:33:55,Morning Ride,Ride,,2713,11983.5,false,Citi Bike,activities/1185387377.fit.gz
+1084499353,2017-07-15 12:09:37,Morning Ride,Ride,"",2546,11441.1,false,Sirène ,activities/1188599412.fit.gz
+1084948052,2017-07-15 17:58:38,Afternoon Ride,Ride,"",1062,3651.8,false,Citi Bike,activities/1189058519.fit.gz
+1086243807,2017-07-16 10:32:29,NYC Tri Swim (also 1st swim of the year...),Swim,"",1189,1521.5,false,,activities/1190391419.fit.gz
+1086243808,2017-07-16 10:52:19,NYC Tri T1,Workout,"",404,912.3,,,activities/1190391433.fit.gz
+1086243814,2017-07-16 12:17:52,NYC Tri T2,Workout,"",101,219.5,,,activities/1190391445.fit.gz
+1086243863,2017-07-16 12:19:36,NYC Tri Run- unofficial AG 5th! ,Run,"",2766,9608.3,false,,activities/1190391450.fit.gz
+1086243872,2017-07-16 10:59:07,NYC Tri Bike,Ride,"",4722,40785.2,false,Sirène ,activities/1190391438.fit.gz
+1087812980,2017-07-16 20:59:59,Citi Bike to tri party 🍻,Ride,"",2145,8795.1,true,Citi Bike,activities/1191999552.fit.gz
+1087813129,2017-07-17 12:23:59,Morning Ride,Ride,,2719,12029.9,false,Citi Bike,activities/1191999702.fit.gz
+1088636771,2017-07-17 22:11:57,Evening Ride,Ride,,887,2893.4,false,Citi Bike,activities/1192840851.fit.gz
+1088688498,2017-07-17 22:45:27,Evening Ride,Ride,,2231,10031.1,false,Citi Bike,activities/1192892980.fit.gz
+1089453741,2017-07-18 11:20:02,Morning Ride,Ride,,3012,12029.6,false,Citi Bike,activities/1193667267.fit.gz
+1090573021,2017-07-19 00:28:56,Evening Run,Run,,4840,12885.5,false,,activities/1194802368.fit.gz
+1091109672,2017-07-19 10:53:07,Morning Run,Run,"",3306,8881.6,true,,activities/1195340913.fit.gz
+1091133677,2017-07-19 11:50:05,Morning Ride,Ride,"",932,4194.8,true,Citi Bike,activities/1195364993.fit.gz
+1092084644,2017-07-19 22:36:26,Evening Ride,Ride,"",2736,11877.5,true,Citi Bike,activities/1196328725.fit.gz
+1092676483,2017-07-20 10:13:56,Morning Run,Run,,5257,13715.4,false,,activities/1196929595.fit.gz
+1092705412,2017-07-20 11:44:17,Morning Ride,Ride,"",1292,5762.0,true,Citi Bike,activities/1196958828.fit.gz
+1101745479,2017-07-25 23:07:38,TNT Ice Cream Sandwich 🍦,Run,"",5504,12556.2,false,,activities/1206127260.fit.gz
+1102561564,2017-07-26 12:03:56,Morning Ride,Ride,"",2730,11961.5,true,Citi Bike,activities/1206951507.fit.gz
+1102831178,2017-07-26 17:33:00,Afternoon Ride,Ride,"",2899,11571.2,true,Citi Bike,activities/1207223903.fit.gz
+1103179163,2017-07-26 21:32:15,I biked 30 miles on a Citi Bike today,Ride,"",3303,18061.1,true,Citi Bike,activities/1207575556.fit.gz
+1103183333,2017-07-26 19:35:13,DCLA x Citi Bike Art Tour,Ride,,3600,6759.26,false,Citi Bike,
+1103860860,2017-07-27 09:31:37,Warmup to the park,Ride,"",1646,8443.2,false,Sirène ,activities/1208266265.fit.gz
+1103950173,2017-07-27 10:56:58,Brick part 2: le run,Run,"",1599,4972.6,false,,activities/1208357116.fit.gz
+1103950262,2017-07-27 11:34:57,To work we go,Ride,"",741,3845.0,true,Sirène ,activities/1208357227.fit.gz
+1103957044,2017-07-27 10:08:00,Brick part 1: 🚲,Ride,,2702,21565.3,false,Sirène ,
+1105476164,2017-07-28 11:13:25,Brick part 2: Red Hook Pool 🏊🏼‍♀️,Swim,"",2532,1200.0,false,,activities/1209901610.fit.gz
+1106155855,2017-07-28 22:14:53,Evening Ride,Ride,,2819,12303.7,false,Citi Bike,activities/1210590165.fit.gz
+1106189302,2017-07-28 10:12:00,Brick parts 1 & 3,Ride,"",3600,13679.5,true,Citi Bike,
+1107049176,2017-07-29 11:00:23,Morning Run,Run,,9758,24552.1,false,,activities/1211499452.fit.gz
+1107091738,2017-07-29 14:05:49,To & from the track,Ride,,900,1609.35,false,Citi Bike,
+1110212441,2017-07-31 10:19:19,Morning Ride,Ride,,2272,10406.5,false,Citi Bike,activities/1214721507.fit.gz
+1110317960,2017-07-31 11:10:50,Morning Swim,Swim,,2841,1902.8,false,,activities/1214828587.fit.gz
+1110344987,2017-07-31 12:29:19,Morning Ride,Ride,,1339,4301.3,false,Citi Bike,activities/1214856109.fit.gz
+1111272723,2017-07-31 23:17:11,Evening Ride,Ride,,2739,11908.9,false,Citi Bike,activities/1215799245.fit.gz
+1112008103,2017-08-01 09:33:24,BTC ⏩☕️⏩work ,Ride,"",10184,44491.6,true,Sirène ,activities/1216542963.fit.gz
+1113097934,2017-08-01 23:20:51,Evening Run,Run,,7142,15295.5,false,,activities/1217649006.fit.gz
+1119037841,2017-08-05 17:33:52,Post-Summer Streets w/Ellie,Run,"",10925,27362.0,false,,activities/1223679252.fit.gz
+1119118697,2017-08-05 21:37:10,Afternoon Ride,Ride,,1020,3646.4,false,Citi Bike,activities/1223763592.fit.gz
+1119225427,2017-08-05 23:49:38,Evening Ride,Ride,,1310,4296.6,false,Citi Bike,activities/1223872801.fit.gz
+1120436720,2017-08-06 13:04:50,Beach Day w/Serene & John,Ride,"",10490,50179.6,false,Sirène ,activities/1225114021.fit.gz
+1120529934,2017-08-04 22:29:39,Evening Ride,Ride,,1800,6437.39,true,Citi Bike,
+1123222412,2017-08-08 09:35:35,Pace lining 🚴🏽‍♀️🚴🏽‍♀️🚴🏽‍♀️🚴🏽‍♀️🚴🏽‍♀️,Ride,"",8961,44371.4,true,Sirène ,activities/1227951793.fit.gz
+1124196289,2017-08-08 22:55:12,Basically a brick workout part 1,Ride,"",2570,12929.6,true,Sirène ,activities/1228939181.fit.gz
+1124306896,2017-08-08 23:43:40,Brick? Tempo? ¯\_(ツ)_/¯,Run,"",5250,13683.0,false,,activities/1229051223.fit.gz
+1124963843,2017-08-09 12:29:44,Morning Ride,Ride,,2296,10152.0,false,Citi Bike,activities/1229718825.fit.gz
+1126510317,2017-08-10 11:03:06,Brick part 2: run,Run,"",1606,5415.7,false,,activities/1231288838.fit.gz
+1126510408,2017-08-10 09:32:17,Brick part 1 à vélo,Ride,"",5366,35460.9,false,Sirène ,activities/1231288638.fit.gz
+1126510429,2017-08-10 11:35:12,Brick part 3: to werk,Ride,"",733,3828.5,true,Sirène ,activities/1231288943.fit.gz
+1128150184,2017-08-11 10:20:32,Citi Bike to Red Hook,Ride,"",3168,11114.2,true,Citi Bike,activities/1232954544.fit.gz
+1128150211,2017-08-11 11:31:10,Trying to be a petite poisson 🐠,Swim,"",1247,890.1,false,,activities/1232954583.fit.gz
+1128150292,2017-08-11 12:11:27,Citi Bike to werk,Ride,"",1485,4506.0,true,Citi Bike,activities/1232954656.fit.gz
+1128777716,2017-08-11 21:13:21,Afternoon Ride,Ride,"",3324,14119.7,true,Sirène ,activities/1233592654.fit.gz
+1130401024,2017-08-12 17:25:07,Afternoon Run,Run,,12649,33798.3,false,,activities/1235267205.fit.gz
+1131810725,2017-08-13 11:11:24,Palisades w/ a very patient Sean ,Ride,"",17003,91044.2,false,Sirène ,activities/1236708134.fit.gz
+1133141975,2017-08-14 12:05:51,Morning Ride,Ride,,2645,11831.6,false,Citi Bike,activities/1238066922.fit.gz
+1133942870,2017-08-14 22:15:02,Longer but more fun way home,Ride,"",3133,14953.5,true,Citi Bike,activities/1238878987.fit.gz
+1134699371,2017-08-15 11:53:29,On to werk,Ride,"",725,3575.6,true,Sirène ,activities/1239650391.fit.gz
+1134699641,2017-08-15 09:35:16,Flat straight into 4 lap TT,Ride,4 lap TT = 13.4mi in 40:35 @ 19.8mph,6096,35505.0,true,Sirène ,activities/1239650292.fit.gz
+1135664269,2017-08-15 22:03:27,Evening Ride,Ride,,3030,15899.5,false,Citi Bike,activities/1240627494.fit.gz
+1135810789,2017-08-15 23:17:31,Evening Run,Run,,5918,12088.8,false,,activities/1240776225.fit.gz
+1137387224,2017-08-16 21:39:16,Afternoon Ride,Ride,,2665,11463.3,false,Citi Bike,activities/1242378044.fit.gz
+1138021618,2017-08-17 10:53:56,Brick part 2: run,Run,"",1619,5408.3,false,,activities/1243020462.fit.gz
+1138021763,2017-08-17 09:29:12,Brick part 1: warm up & OG work,Ride,"",5039,35474.1,false,Sirène ,activities/1243020182.fit.gz
+1138071322,2017-08-17 11:30:02,Brick part 3: easy home,Ride,"",1838,8815.1,false,Sirène ,activities/1243070740.fit.gz
+1143347617,2017-08-20 10:31:17,Morning Ride,Ride,"",19254,101186.0,false,Sirène ,activities/1248435555.fit.gz
+1143448736,2017-08-19 17:50:00,Post-Summer Streets dip,Swim,,2400,1700.0,false,,
+1144635283,2017-08-21 12:10:58,Morning Ride,Ride,"",3029,11865.6,true,Citi Bike,activities/1249746120.fit.gz
+1145418084,2017-08-21 22:15:55,Evening Ride,Ride,"",3045,12918.5,true,Citi Bike,activities/1250544054.fit.gz
+1146106562,2017-08-22 09:31:04,BTC FTP work ,Ride,"",9120,44679.1,true,Sirène ,activities/1251241728.fit.gz
+1147089410,2017-08-22 21:29:27,Basic brick part 1,Ride,"",2733,16049.1,true,Sirène ,activities/1252244921.fit.gz
+1147245855,2017-08-22 23:19:25,TNT brick tempo 😟,Run,"",4882,11588.4,false,,activities/1252404214.fit.gz
+1148844649,2017-08-23 21:53:43,Afternoon Ride,Ride,,3231,12964.4,false,Citi Bike,activities/1254025393.fit.gz
+1149560647,2017-08-24 10:37:02,Brick part 1,Ride,"",432,3459.7,false,Sirène ,activities/1254746406.fit.gz
+1149560774,2017-08-24 10:59:30,When you accidentally hit the lap button,Ride,"",1330,11136.9,false,Sirène ,activities/1254746428.fit.gz
+1149560810,2017-08-24 10:29:45,To the park + warmup laps,Ride,"",3269,20294.8,false,Sirène ,activities/1254746398.fit.gz
+1149560814,2017-08-24 11:00:32,Brick part 2: run 🏃🏽‍♀️,Run,"",1825,6137.1,false,,activities/1254746601.fit.gz
+1149560871,2017-08-24 11:43:15,On to werk,Ride,"",789,3767.3,true,Sirène ,activities/1254746710.fit.gz
+1150526639,2017-08-24 22:03:00,Evening Ride,Ride,"",3042,15433.3,true,Sirène ,activities/1255724433.fit.gz
+1150652490,2017-08-25 00:47:09,BLAZE BIKES ,Ride,"",571,1732.5,true,Sirène ,activities/1255852351.fit.gz
+1152923452,2017-08-26 12:30:11,Percy Sutton 5k,Run,"",1308,5083.1,false,,activities/1258151460.fit.gz
+1153334837,2017-08-26 13:30:09,Soooo tuckered out,Run,"",12101,28738.5,false,,activities/1258568803.fit.gz
+1154877757,2017-08-27 13:02:29,Henry Isola XC 4M,Run,"",1924,6250.0,false,,activities/1260141445.fit.gz
+1155393236,2017-08-27 17:44:40,Afternoon Ride,Ride,,2011,8419.5,false,Citi Bike,activities/1260665296.fit.gz
+1157762841,2017-08-29 09:34:59,warm up,Ride,"",2313,13965.3,false,Sirène ,activities/1263059935.fit.gz
+1158024121,2017-08-29 11:51:29,cooldown to work,Ride,"",747,3696.4,true,Sirène ,activities/1263320648.fit.gz
+1158024335,2017-08-29 10:14:37,nope. still tuckered out ,Ride,"",3455,26947.1,false,Sirène ,activities/1263320537.fit.gz
+1158895809,2017-08-29 21:32:18,Afternoon Ride,Ride,,2687,12337.3,false,Citi Bike,activities/1264199736.fit.gz
+1162624873,2017-09-01 09:36:10,Multi-sport day part 1,Ride,"",1632,8376.4,true,Sirène ,activities/1267952037.fit.gz
+1162784631,2017-09-01 10:12:19,Bon voyage! // Last long run w/Ellie before Paris,Run,"",7524,21061.9,false,,activities/1268112906.fit.gz
+1162866132,2017-09-01 13:22:57,Multi-sport day part 3,Ride,"",1072,5103.9,true,Sirène ,activities/1268195572.fit.gz
+1163557906,2017-09-01 21:28:38,Multi-sport day part 3: Happy Hour Ride to Rockaways,Ride,"",8689,41413.4,false,Sirène ,activities/1268895491.fit.gz
+1165183037,2017-09-02 12:15:42,Ride >>> brunch w/John & Serene ,Ride,"",21741,88486.5,false,Sirène ,activities/1270546647.fit.gz
+1168504938,2017-09-04 13:02:47,Bear Mtn >>> 9W home,Ride,"",25333,125181.0,false,Sirène ,activities/1273914168.fit.gz
+1168821751,2017-09-04 23:36:00,Watching Take the Bridge Run-Off,Ride,"",1800,7724.9,true,Citi Bike,
+1169363579,2017-09-05 12:01:58,easy ride to work,Ride,"",2792,11829.2,true,Citi Bike,activities/1274783008.fit.gz
+1170274777,2017-09-05 22:14:31,Evening Ride,Ride,,2620,11844.9,false,Citi Bike,activities/1275702751.fit.gz
+1170412343,2017-09-05 23:05:47,TNT hills,Run,"",7025,16167.0,false,,activities/1275841419.fit.gz
+1171002146,2017-09-06 12:19:30,slowpoke ride to work,Ride,"",3773,11878.2,true,Citi Bike,activities/1276445056.fit.gz
+1171851943,2017-09-06 22:23:21,Sloooooww ride home,Ride,"",3330,12630.0,true,Citi Bike,activities/1277302221.fit.gz
+1173408202,2017-09-07 21:45:13,5x1mi to the track,Run,"",5364,16104.7,true,,activities/1278877807.fit.gz
+1173486830,2017-09-08 00:33:33,Evening Ride,Ride,,420,1609.35,true,Citi Bike,
+1178345401,2017-09-10 11:19:14,Warm up,Run,"",1074,3215.4,false,,activities/1283901734.fit.gz
+1178345468,2017-09-10 12:35:02,5th Ave Mile 5:56 PR!,Run,"",443,1681.6,false,,activities/1283901798.fit.gz
+1178345773,2017-09-10 13:47:30,Extra extra,Run,"",3710,10374.4,false,,activities/1283902062.fit.gz
+1181892391,2017-09-13 11:24:08,warmup,Run,"",1137,3395.0,true,,activities/1287488792.fit.gz
+1181966114,2017-09-13 11:44:39,run to work,Run,"",3489,9527.2,true,,activities/1287562886.fit.gz
+1184302929,2017-09-14 12:25:51,Ride to work,Ride,,3000,12231.0,true,Citi Bike,
+1188862759,2017-09-17 11:42:08,The best kind of tri is one where you don't have to swim,Swim,"",124,95.8,false,,activities/1294558334.fit.gz
+1188862764,2017-09-17 11:46:55,Toughman T1,Workout,"",281,354.8,,,activities/1294558339.fit.gz
+1188862769,2017-09-17 14:54:41,Toughman T2,Workout,"",114,78.0,,,activities/1294558348.fit.gz
+1188862807,2017-09-17 16:48:12,Toughman 13.1 AG 2nd! ,Run,"",6754,20655.8,false,,activities/1294558354.fit.gz
+1188862914,2017-09-17 14:52:41,Toughman Bike,Ride,"",11139,89476.9,false,Sirène ,activities/1294558343.fit.gz
+1191373916,2017-09-19 12:24:08,I have legs again! ,Ride,"",3289,12058.4,true,Citi Bike,activities/1297104724.fit.gz
+1192858241,2017-09-20 10:08:13,Park laps w/ Meredith & Star,Ride,"",6880,44212.3,true,Sirène ,activities/1298615239.fit.gz
+1193449219,2017-09-20 18:29:54,Afternoon Ride,Ride,"",703,2767.6,true,Sirène ,activities/1299214378.fit.gz
+1193685921,2017-09-20 21:01:37,Afternoon Ride,Ride,"",2343,10359.2,true,Sirène ,activities/1299450933.fit.gz
+1194472904,2017-09-21 11:18:29,le run to work,Run,"",4431,12966.5,true,,activities/1300251267.fit.gz
+1197645564,2017-09-23 10:45:55,PP200 Loops >>> Midtown w/ les parents,Ride,"",13690,83606.3,false,Sirène ,activities/1303476722.fit.gz
+1198465059,2017-09-23 15:30:00,Van Cortlandt trails + Mosholu + Botanical Gardens + Arthur Ave = Classic Hanley Fam Vacay,Walk,"",25200,20277.7,false,,
+1199589688,2017-09-24 11:30:32,Well my watch said 20,Run,"",11857,32184.2,false,,activities/1305458988.fit.gz
+1200945430,2017-09-25 12:08:26,Citi Biking to work,Ride,"",2798,11989.9,true,Citi Bike,activities/1306837897.fit.gz
+1202354180,2017-09-26 09:26:58,"Hill repeats, sort of",Ride,"",7452,50153.7,true,Sirène ,activities/1308254829.fit.gz
+1203334112,2017-09-26 21:48:40,Afternoon Ride,Ride,"",2623,13090.7,true,Sirène ,activities/1309243819.fit.gz
+1203500385,2017-09-26 23:11:13,Evening Run,Run,"",6033,16152.6,false,,activities/1309411528.fit.gz
+1205651022,2017-09-28 12:13:45,Morning Ride,Ride,"",2844,12926.4,true,Citi Bike,activities/1311583345.fit.gz
+1206542994,2017-09-28 22:13:27,Evening Run,Run,"",4942,14396.8,true,,activities/1312486636.fit.gz
+1208781501,2017-09-30 11:47:31,Morning Run,Run,,11831,32240.2,false,,activities/1314759261.fit.gz
+1213232958,2017-10-03 12:17:58,Morning Ride,Ride,"",2850,11838.0,true,Citi Bike,activities/1319269204.fit.gz
+1214063515,2017-10-03 21:57:56,With backpack full of stuff,Run,"",3264,8184.0,true,,activities/1320104268.fit.gz
+1214063563,2017-10-03 22:54:37,When there's a Citi Bike station exactly where you stop 🙌,Ride,"",1351,4922.4,true,Citi Bike,activities/1320104348.fit.gz
+1214774741,2017-10-04 12:25:22,Morning Ride,Ride,"",2834,12935.5,true,Citi Bike,activities/1320826155.fit.gz
+1216239850,2017-10-05 12:08:05,Pushing the limits of how late I can sleep & still get to work on time,Run,"",2490,7153.8,true,,activities/1322301848.fit.gz
+1218948864,2017-10-07 11:23:00,Rockaways warmup ,Run,"",393,1347.6,false,,activities/1325047277.fit.gz
+1219124482,2017-10-07 12:03:07,I won a half marathon! 🥇,Run,"",5960,21111.4,false,,activities/1325226001.fit.gz
+1221638115,2017-10-08 14:27:54,"Adventure: rain, flats, closed bike paths, & a parade",Ride,"",22620,87540.1,false,Sirène ,activities/1327788226.fit.gz
+1223785139,2017-10-10 12:18:03,Commute w/ Meagan Ride by 👋,Ride,"",2883,11832.2,true,Citi Bike,activities/1329955681.fit.gz
+1224752289,2017-10-10 23:13:17,TNT runs to the Gantry ,Run,"",4603,13054.9,false,,activities/1330926388.fit.gz
+1224768508,2017-10-11 02:00:16,Citi Bike home,Ride,"",495,1904.8,true,Citi Bike,activities/1330942899.fit.gz
+1227679024,2017-10-12 21:15:58,meh,Run,"",1080,3218.7,false,,
+1228166307,2017-10-13 11:31:51,How many donuts does it take to earn 10 Bike Angels points?,Ride,"",6197,9247.9,false,Citi Bike,activities/1334370739.fit.gz
+1228776956,2017-10-13 21:53:21,Afternoon Ride,Ride,,1374,4513.1,false,Citi Bike,activities/1334983091.fit.gz
+1230210149,2017-10-14 12:36:27,Fall foliage ride 🍁🍂🌾,Ride,"",20704,93105.7,false,Sirène ,activities/1336447769.fit.gz
+1230409628,2017-10-14 21:02:36,Home sweet home,Ride,"",2405,10054.3,false,Sirène ,activities/1336652831.fit.gz
+1231910646,2017-10-15 12:31:26,Blue Line Run // last 20 miler before the marathon!,Run,"",11830,32967.7,false,,activities/1338184692.fit.gz
+1235391702,2017-10-17 23:35:34,Laufen home from work ,Run,"",2940,8066.3,true,"",activities/1341705856.fit.gz
+1235411071,2017-10-18 00:28:07,Nah Citi Bike sounds great,Ride,"",1128,4617.3,true,Citi Bike,activities/1341725448.fit.gz
+1239492636,2017-10-20 21:02:01,Jumping the gun on the long run,Run,With backpack of course 🎒,6888,19920.4,true,"",activities/1345840458.fit.gz
+1245561137,2017-10-24 23:36:01,Run most of the way home ,Run,"",2679,8070.9,true,"",activities/1351993276.fit.gz
+1245580086,2017-10-25 00:23:42,It's so hard to run past this station ,Ride,"",1103,4611.1,true,Citi Bike,activities/1352012675.fit.gz
+1254115211,2017-10-30 21:40:13,Afternoon Run,Run,,3384,8844.9,true,"",activities/1254115211.gpx
+1259340079,2017-11-02 11:49:49,Morning Run,Run,,1712,2923.4,false,"",activities/1365914694.fit.gz
+1261234536,2017-11-04 19:04:37,Afternoon Run,Run,,1311,3699.1,false,"",activities/1367834807.fit.gz
+1263046044,2017-11-05 14:57:17,NYC Marathon 2017 🙌🏼 3:34:58,Run,"20 Mile PR, last 6 were TOUGH but still the best day of running of the year. ",12905,42627.2,false,"",activities/1369683907.fit.gz
+1270693334,2017-11-11 13:03:47,Morning Run,Run,,5738,10185.0,false,"",activities/1377335789.fit.gz
+1273130020,2017-11-13 02:00:39,Nike abs w/ Hannah,Workout,,900,0.0,false,,
+1278401138,2017-11-16 22:27:43,Afternoon Run,Run,,4933,12892.5,false,"",activities/1385079930.fit.gz
+1280655595,2017-11-18 15:26:47,Catch up sesh with Mary & Kim (HBD!) while they slay 60K,Run,"",5957,12870.4,false,"",activities/1387345108.fit.gz
+1293391703,2017-11-23 16:52:33,Lunch Run,Run,,2661,5989.0,false,"",activities/1400173731.fit.gz
+1293391725,2017-11-27 22:52:25,Run commute,Run,"",4831,13105.6,true,"",activities/1400173763.fit.gz
+1294224093,2017-11-28 13:12:38,Bike to work,Ride,"",2777,11884.4,true,Citi Bike,activities/1401013456.fit.gz
+1296552626,2017-11-29 13:21:11,Morning Ride,Ride,"",2946,12949.4,true,Citi Bike,activities/1403395136.fit.gz
+1296634738,2017-11-30 12:51:08,Apologies for sending everyone on my Garmin tracker an email,Run,"",4717,12885.3,true,"",activities/1403479074.fit.gz
+1300712405,2017-12-03 14:21:35,Pete McArdle 15k. Cake PR 🍰,Run,"",4527,14943.6,false,"",activities/1407674962.fit.gz
+1304450960,2017-12-06 13:11:00,let's go to work,Ride,"",3000,12231.0,true,Citi Bike,
+1309964927,2017-12-05 11:48:16,Morning Run,Run,"",4323,12883.2,true,"",activities/1417164895.fit.gz
+1309964975,2017-12-10 20:51:09,BTC 1st Annual Run to Dyker Heights Lights,Run,"",3621,7858.6,false,"",activities/1417165015.fit.gz
+1311445226,2017-12-12 12:44:16,Rowland A-Tempo,Run,"",4492,12918.3,true,"",activities/1418693699.fit.gz
+1312507002,2017-12-13 10:50:33,Doves Annual Rockefeller Run,Run,"",4085,10484.8,false,"",activities/1419785335.fit.gz
+1325102335,2017-12-24 07:17:08,Yog with Mama Hanley,Run,"",4183,9670.4,false,Avenue A,activities/1432711518.fit.gz
+1328755958,2017-12-27 07:03:19,Lisbon loop/ celebration of elevation ,Run,"",6608,20450.0,false,Avenue A,activities/1436530649.fit.gz
+1331909607,2017-12-29 14:06:42,Easy breezy beautiful bikeshare ,Ride,Mobi Prio,7401,15395.9,false,Citi Bike,activities/1439798148.fit.gz
+1333494127,2017-12-30 17:41:16,São Silvestre de Lisboa 2017,Run,A 10k with 10k of our best friends. Is it even a Hanley family vacay if we didn’t race? ,2885,10135.6,false,Avenue A,activities/1441440751.fit.gz
+1336183769,2018-01-01 15:05:54,Brrrrrrrrrr,Ride,"",1914,8353.4,true,Citi Bike,activities/1444249351.fit.gz
+1336183961,2018-01-01 15:38:00,Did you see the guy wearing shorts?! 😱,Run,Followed by BTC boozy coffee aka human defroster,1979,5506.1,false,"",activities/1444249574.fit.gz
+1337739618,2018-01-02 17:50:34,Tempo attempt,Run,"1ish mi WU, 5mi LT (attempt), 1ish mi CD. Very real possibility that the bridge is now a biohazard...",4163,12548.6,false,"",activities/1445868132.fit.gz
+1341224903,2018-01-04 22:42:29,Lil tempo,Ride,"10 WU, 10 tempo, 2 easy, 3 hard, 5 CD",2130,10986.0,false,Sirène ,activities/1449432139.fit.gz
+1341265252,2018-01-04 23:29:10,pure barre,Workout,,1920,0.0,false,,
+1345975343,2018-01-07 17:38:34,18 @ 8:25 = dreadmill record 🙌🏼,Run,"W/ James, Toni, Cynthia, Natalie, Danielle, Q-pon",8421,24148.9,false,"",activities/1454377641.fit.gz
+1348453531,2018-01-09 13:42:42,brrrrr,Ride,"",3444,11857.2,true,Citi Bike,activities/1457091686.fit.gz
+1349380450,2018-01-09 23:47:21,change of p(l)ace,Run,"1 WU, 4 tempo (almost!), 1 CD",3081,10223.0,false,"",activities/1458029465.fit.gz
+1350120977,2018-01-10 13:29:14,waterproof boots + ski gloves 👌,Ride,"Much cold, so slush. 25 degrees",3413,11949.8,true,Citi Bike,activities/1458793108.fit.gz
+1351124473,2018-01-11 02:14:50,Night Ride,Ride,"",2696,8639.0,true,Citi Bike,activities/1459820323.fit.gz
+1353147174,2018-01-12 11:08:59,Doughnut Run 🍩☕️❤️,Run,"",4470,10803.7,false,"",activities/1461893223.fit.gz
+1353302442,2018-01-11 22:50:00,ride to happy hour 🍻,Ride,"",1200,6437.38,true,Citi Bike,
+1357274108,2018-01-14 13:56:30,✨trail magic✨w/Q & Sean,Run,To more trail running adventures in 2018 🍻,10878,27471.0,false,"",activities/1466146706.fit.gz
+1360092629,2018-01-16 13:12:54,Citi Bike to le train ☕️,Ride,,1607,6437.39,true,Citi Bike,
+1360886742,2018-01-16 23:12:05,Run commute w/ some tempo,Run,,4530,13306.8,true,"",activities/1360886742.gpx
+1363005961,2018-01-18 11:43:04,Does running in this weather count as icing my legs?,Run,5x 1k repeats @ trying not to get hit by a car pace,4234,12903.7,true,"",activities/1472052301.fit.gz
+1367178044,2018-01-21 00:55:13,Flywheel 🚲,Ride,,2700,24140.2,false,Sirène ,
+1368241617,2018-01-21 11:43:51,Sunday Funday Runday 🏃🏽‍♀️☕️,Run,"",11808,32290.2,false,"",activities/1477560213.fit.gz
+1369211454,2018-01-22 01:00:00,Night ride,Ride,,2220,8046.74,false,Citi Bike,
+1370558962,2018-01-22 23:54:06,Ride home w/ Becca & Abbie ,Ride,"",3594,13125.0,true,Citi Bike,activities/1479969175.fit.gz
+1371165160,2018-01-23 11:40:42,A tale of two bridges 🌉,Run,Tempo-y miles on the bridges and sporadic thereafter ,4908,14538.3,true,"",activities/1480598746.fit.gz
+1372876807,2018-01-24 11:00:05,First outside ride of 2018,Ride,So slow but so much better than inside,7223,39062.0,true,Sirène ,activities/1482348701.fit.gz
+1373906810,2018-01-25 00:34:27,Surprisingly not that bad,Ride,"",2787,13163.9,true,Sirène ,activities/1483389901.fit.gz
+1374481925,2018-01-25 12:01:16,Run commute,Run,progressively slower (whoops) mile repeats,4585,12875.8,true,"",activities/1483978510.fit.gz
+1377790400,2018-01-26 20:15:00,Transit Museum Field-trip Citi Bike Gang 🤓 ,Ride,,1620,6437.39,true,Citi Bike,
+1379909181,2018-01-28 12:52:25,Sunday Funday Rainday,Run,"",10534,29030.6,false,"",activities/1489592537.fit.gz
+1382877057,2018-01-30 12:38:14,Snooze alarm,Run,"",4512,12976.5,true,"",activities/1492660643.fit.gz
+1386248712,2018-02-01 10:40:58,✨favorite long run route✨,Run,"4 bridges, 3 boros",11504,33879.3,true,"",activities/1496151395.fit.gz
+1391171487,2018-02-04 12:07:28,Sunday speed,Run,Just DC,3272,9670.8,false,"",activities/1501247519.fit.gz
+1393215330,2018-02-05 13:15:00,Bike to ze train,Ride,"",5340,5954.57,true,Citi Bike,
+1393556244,2018-02-05 22:12:50,Yog home,Run,"",3561,9692.5,true,"",activities/1503722036.fit.gz
+1394245435,2018-02-06 11:59:45,tempo to werk,Run,W/ Just South flyby ,4284,12897.4,true,"",activities/1504432760.fit.gz
+1397515101,2018-02-08 12:14:08,Saved by the bell,Run,A few 800s and hills in Ft Greene,3255,9963.4,true,"",activities/1507797180.fit.gz
+1400615870,2018-02-10 12:08:57,Viola’s in town! ❤️,Run,High Line x West Side Highway running tour & catch-up sesh 🏃🏻‍♀️🏃🏻‍♀️,5103,9530.2,false,"",activities/1511398316.fit.gz
+1405488064,2018-02-13 09:56:25,Mardi Gras Masochism,Run,Shout out to @James for running the last 6 with me! #StravaPOOL ,11278,32391.1,true,"",activities/1516949134.fit.gz
+1408076507,2018-02-15 00:15:41,Bk Running Co 🍺🍺🍺,Run,1:1 ratio running to beer,8466,4611.9,false,"",activities/1519780564.fit.gz
+1408105596,2018-02-15 03:26:14,Citi Bike > home,Ride,"",489,1610.0,true,Citi Bike,activities/1519818094.fit.gz
+1416321036,2018-02-19 22:14:55,Soggy yog,Run,"",3562,10069.3,true,"",activities/1528684149.fit.gz
+1416394946,2018-02-20 00:31:23,Yog home from plyo,Run,"",644,1666.1,false,"",activities/1528763533.fit.gz
+1416412120,2018-02-19 23:30:00,Baby’s first plyo,Workout,,3600,0.0,false,,
+1416988187,2018-02-20 11:21:07,Tigerwolves Moneghetti,Run,"If you ever need a reminder why going out too fast in a race is a bad idea, try this workout and then run 4 extra miles
+2 x (90 sec on, 90 sec off)
+4 x (60 sec on, 60 sec off) (turn around after the 2nd 60)
+4 x (30 sec on, 30 sec off)
+4 x (15 sec on, 15 sec off)",5066,14078.2,true,"",activities/1529395912.fit.gz
+1418863527,2018-02-21 13:55:39,It feels like spring 🌸🌳,Ride,Still sore from plyo but this was easier than walking up & down stairs for subway transfers.,3035,11897.3,true,Citi Bike,activities/1531339290.fit.gz
+1419724478,2018-02-21 23:15:56,IT’S 70 DEGREES 😍,Ride,"",3683,15393.8,true,Citi Bike,activities/1532223665.fit.gz
+1420340826,2018-02-22 12:15:23,That’ll do,Run,"",2794,8531.7,false,"",activities/1532872741.fit.gz
+1421414008,2018-02-23 03:19:50,Ride home from the nest,Ride,,840,3218.69,true,Citi Bike,
+1424005666,2018-02-24 15:37:12,Thank god for roomies who run,Run,Shout out to @Hannah for running the first part with me! 🏃🏽‍♀️🏃🏼‍♀️,10051,29025.4,false,"",activities/1536658918.fit.gz
+1429354542,2018-02-27 23:30:08,Birthday tempo,Run,"2.something mi WU, 10 mi tempo, 1ish CD with TNT crew",6447,21220.6,true,"",activities/1542237524.fit.gz
+1429965494,2018-02-28 13:28:13,Bike to work,Ride,,3466,13287.4,true,Citi Bike,activities/1429965494.gpx
+1432534069,2018-03-02 11:48:00,Nor’easter speed,Run,"Featuring Logan and Emily running clockwise in solidarity 
+3x 2x1200 ",4012,12387.0,false,"",activities/1545485057.fit.gz
+1436109390,2018-03-04 11:50:04,Washington Heights Cheer Squad,Run,With 🎒,12606,32229.7,false,"",activities/1549183185.fit.gz
+1438344952,2018-03-05 23:19:31,To & from plyo,Run,"",4761,3502.4,false,"",activities/1551501936.fit.gz
+1438347614,2018-03-05 23:30:00,Plyo,Workout,Might as well JUMP,3600,0.0,false,,
+1438918712,2018-03-06 11:19:48,Berry hills -> b-line to bagel,Run,"6x Berry Hills @ ~10k
+No garbage trucks this time 🙌🏼",3613,9826.5,false,"",activities/1552096512.fit.gz
+1442207100,2018-03-08 11:17:41,Ice ice baby,Run,Short & sweet repeats by the one bit of road not covered in ice. ,3438,7514.6,false,"",activities/1555470757.fit.gz
+1445803625,2018-03-10 13:16:41,"Baby taper w/ Alex, Toni, Kaitlyn, & Elise",Run,"",7679,18703.8,false,"",activities/1559186097.fit.gz
+1446403559,2018-03-10 20:05:27,Inaugural North Brooklyn Beer Books,Ride,🍻,971,3094.6,false,Citi Bike,activities/1559810319.fit.gz
+1450148183,2018-03-12 23:18:44,Baby’s first MNER,Run,"",5181,9933.3,false,"",activities/1563713961.fit.gz
+1455083857,2018-03-15 22:09:37,Evening Ride,Ride,,1588,6007.3,false,Citi Bike,activities/1568773767.fit.gz
+1455255663,2018-03-15 23:35:49,The Last Thursday Night Track,Run,2x 1200 ,2145,6613.9,false,"",activities/1568949194.fit.gz
+1457814399,2018-03-17 16:50:38,Shakeout,Run,"",1237,3643.3,false,"",activities/1571580085.fit.gz
+1459263351,2018-03-18 11:35:23,United NYC Half 2018,Run,PR! Unoffish 1:35:18,5724,21534.2,false,"",activities/1573081750.fit.gz
+1461647114,2018-03-19 22:51:17,Roomie shakeout,Run,"",2195,5262.8,false,"",activities/1575544913.fit.gz
+1461725564,2018-03-20 00:19:55,H7H,Run,"",707,1939.3,false,"",activities/1575626151.fit.gz
+1461813272,2018-03-20 02:17:08,Already practicing for H7H,Run,Run > run > snack > run > sleep,743,2060.5,false,"",activities/1575718282.fit.gz
+1463308460,2018-03-20 22:14:32,Hail to the nah,Run,"",4745,14643.4,false,"",activities/1577305207.fit.gz
+1465082894,2018-03-21 22:45:59,Fhitting Room,Workout,😅,2700,0.0,false,,
+1467259831,2018-03-23 12:17:35,So many snow puppies in Ft Greene!,Run,"",2748,8160.8,true,"",activities/1581413765.fit.gz
+1467940120,2018-03-23 21:11:22,It’s the weekend 🙌🏼,Ride,"",3399,12953.0,true,Citi Bike,activities/1582114800.fit.gz
+1469268469,2018-03-24 12:26:42,Last 20-miler before BOSTON,Run,Very carbo-hydrated from Friday night,12387,33638.6,false,"",activities/1583488630.fit.gz
+1472105768,2018-03-25 18:29:29,輔導,Ride,"",1789,6715.9,true,Citi Bike,activities/1586492683.fit.gz
+1473862548,2018-03-26 22:21:00,To plyo,Run,"",727,1785.0,false,"",activities/1588319915.fit.gz
+1473935348,2018-03-26 22:30:00,Plyo: down and dirt-y edition,Workout,"
+",3600,0.0,false,,
+1474500763,2018-03-27 11:28:33,Run to werk,Run,"",4382,12931.4,true,"",activities/1588980062.fit.gz
+1477774345,2018-03-29 08:49:28,Tour de two bridges,Run,"",8222,24058.4,false,"",activities/1592364708.fit.gz
+1483709052,2018-04-01 13:13:07,Trails for breakfast,Run,"",4068,11776.8,false,"",activities/1598575069.fit.gz
+1488843887,2018-04-04 10:15:30,Into the Mist Girls Run🏃🏽‍♀️🏃🏽‍♀️🏃🏽‍♀️🏃🏽‍♀️,Run,A chatty last long run before Boston,6367,16285.3,false,"",activities/1603913660.fit.gz
+1494433146,2018-04-07 13:17:35,Back on track,Run,"3 x 1k
+4:11 // 6:35 pace
+4:08 // 6:30
+4:09 // 6:29",2005,6109.1,false,"",activities/1609674041.fit.gz
+1505722184,2018-04-13 10:15:28,Spring!,Run,"",3019,8306.4,false,"",activities/1621435265.fit.gz
+1510017921,2018-04-15 11:25:40,Shake out with Lauren & Mama Hanley,Run,"",1503,3226.9,false,"",activities/1625919871.fit.gz
+1512511235,2018-04-16 14:50:17,2018 BOSTON MARATHON 🌊,Run,"Henceforth referred to as the new #RAINSTORM3000. Hands down the hardest thing I have ever done.
+
+",12958,42566.0,false,"",activities/1628525013.fit.gz
+1525698102,2018-04-22 19:03:35,Afternoon Ride,Ride,,1751,7335.4,false,Citi Bike,activities/1642243988.fit.gz
+1525968439,2018-04-22 22:07:57,Nike Go 5k warm up,Run,"",637,1730.0,false,"",activities/1642527290.fit.gz
+1526055532,2018-04-22 23:15:07,Here for the Diplo concert,Run,Nike Go 5k 🍻🎉,1362,5029.7,false,"",activities/1642618571.fit.gz
+1529970357,2018-04-24 23:22:42,Perfect running weather ,Run,"",3965,10510.3,true,"",activities/1646712053.fit.gz
+1532840700,2018-04-26 12:27:48,Rolling to work,Ride,,3515,12173.3,true,Citi Bike,activities/1532840700.gpx
+1533892339,2018-04-26 22:52:33,More perfect weather,Ride,"",2758,10703.2,true,Citi Bike,activities/1533892339.gpx
+1537657541,2018-04-28 20:34:15,Warm up,Run,"",773,2090.1,false,"",activities/1654672282.fit.gz
+1537657761,2018-04-28 21:00:05,Red Hook Crit,Run,"",1499,5479.3,false,Avenue A,activities/1654672510.fit.gz
+1537657866,2018-04-28 21:31:04,Cool down,Run,"",1109,2880.7,false,"",activities/1654672625.fit.gz
+1540818091,2018-04-30 12:16:38,To work in record time,Ride,Also Garmin why you say 7.4 instead of 7.5??,2696,11921.5,true,Sirène ,activities/1657934999.fit.gz
+1541734580,2018-04-30 22:06:06,Wet ride home,Ride,"",3048,13192.8,true,Sirène ,activities/1658867588.fit.gz
+1542919790,2018-05-01 11:57:56,Happy Bike Month!,Ride,Day 1,3019,13243.2,true,Sirène ,activities/1660090266.fit.gz
+1544108333,2018-05-01 21:23:48,Glorious weather,Ride,Why is that hill so hard now,4145,21052.3,true,Sirène ,activities/1661300037.fit.gz
+1544931836,2018-05-02 10:00:33,Pace lining,Ride,"When you forget to restart your Garmin 🤦🏻‍♀️
+Also heyy NBR!",6531,31413.0,true,Sirène ,activities/1662152524.fit.gz
+1544993328,2018-05-02 10:30:00,Leftover miles,Ride,"",1200,9044.51,true,Sirène ,
+1546171185,2018-05-02 23:29:49,Ride home,Ride,"",2682,13047.9,true,Sirène ,activities/1663406718.fit.gz
+1546748195,2018-05-03 10:38:07,First half of run #1?,Run,"",242,770.9,false,"",activities/1664008314.fit.gz
+1546748288,2018-05-03 10:33:49,BTC Brick part 1,Ride,"",4308,13965.4,true,Sirène ,activities/1664008293.fit.gz
+1546749707,2018-05-03 10:38:33,BTC brick run 1,Run,"",240,742.1,false,"",activities/1664009807.fit.gz
+1546767424,2018-05-03 10:44:47,BTC brick bike #2,Ride,"",649,5433.5,false,Sirène ,activities/1664028124.fit.gz
+1546787026,2018-05-03 10:57:14,BTC run #2,Run,"",535,1629.0,false,"",activities/1664048483.fit.gz
+1546807707,2018-05-03 11:10:41,BTC brick bike loop #3,Ride,"",618,5353.3,false,Sirène ,activities/1664069588.fit.gz
+1546828668,2018-05-03 11:23:58,BTC brick part the last,Run,Definitely the last run,554,1624.7,false,"",activities/1664091376.fit.gz
+1547012300,2018-05-03 11:34:00,BTC >>> work,Ride,"",1080,4023.36,true,Sirène ,
+1548027362,2018-05-03 22:03:41,Roll home,Ride,"",2824,13055.7,true,Sirène ,activities/1665303856.fit.gz
+1548737679,2018-05-04 10:32:28,Guest appearance by Michaelene 👯‍♀️,Walk,"",2111,3041.5,false,"",activities/1666037174.fit.gz
+1550811474,2018-05-05 10:05:39,✨Sweatin’ to the Oldies 🔈,Run,H7H leg #1,5537,18428.4,false,"",activities/1668165041.fit.gz
+1552159431,2018-05-05 22:02:07,H7H leg 9 w/ Louise,Run,"",2531,6743.8,false,"",activities/1669549132.fit.gz
+1552311149,2018-05-06 01:40:58,Glorious H7H Finish,Run,"",25,21.7,false,"",activities/1669705437.fit.gz
+1555692350,2018-05-07 12:05:20,Bike month week 2,Ride,But also because I ate too many snacks in a van this weekend ,2817,11858.7,true,Citi Bike,activities/1673205060.fit.gz
+1556746823,2018-05-07 22:34:49,Evening Ride,Ride,,3367,15382.3,false,Citi Bike,activities/1674274625.fit.gz
+1557642610,2018-05-08 09:33:47,BTC hill repeats in disguise,Ride,"15min WU, 4x 3min on, 6-7 min off
+",9344,44294.5,true,Sirène ,activities/1675204862.fit.gz
+1564161870,2018-05-11 10:25:56,To donut run,Ride,,1590,6656.8,true,Citi Bike,activities/1564161870.gpx
+1564228373,2018-05-11 10:52:56,Donuuuuuut 🍩,Run,,1737,3162.0,false,"",activities/1564228373.gpx
+1572631951,2018-05-14 23:50:19,Laufen home,Run,,4538,13419.1,true,"",activities/1572631951.gpx
+1573372876,2018-05-15 11:55:20,Morning Ride,Ride,"",698,3612.2,true,Sirène ,activities/1691856913.fit.gz
+1573373256,2018-05-15 09:30:43,BTC + ☕️,Ride,4x 8min @ oly pace w/ 2min recovery,5987,41580.8,true,Sirène ,activities/1691856734.fit.gz
+1575648285,2018-05-16 10:02:16,To the park,Ride,"",1327,6894.7,true,Sirène ,activities/1694198980.fit.gz
+1575649136,2018-05-16 12:09:18,PP > IC,Ride,"",928,5132.4,true,Sirène ,activities/1694199872.fit.gz
+1575649324,2018-05-16 10:36:39,Bicycle Habitat Women's Ride 🚴🏼‍♀️☕️,Ride,+Free snacks and coffee at Transportation Alternatives Commuter Station!,3211,26563.2,false,Sirène ,activities/1694199658.fit.gz
+1588496756,2018-05-22 11:29:36,Tap out,Ride,"",1477,6452.5,false,Citi Bike,activities/1707517831.fit.gz
+1588496761,2018-05-22 10:12:57,Carouseling ,Run,"",4527,13193.5,false,"",activities/1707517815.fit.gz
+1592518875,2018-05-24 05:56:40,Paris + Bois de Boulogne,Run,"",4196,10958.4,false,"",activities/1711663614.fit.gz
+1597124887,2018-05-26 07:12:08,20k with Ellie + Squad,Run,@ 8:38,7918,19561.6,false,"",activities/1716536741.fit.gz
+1603746663,2018-05-29 08:26:42,Drachenfels,Hike,"",6379,4839.8,false,"",activities/1723601867.fit.gz
+1605367521,2018-05-30 14:10:00,pure barre w/ Mama Hanley,Workout,you don't realize how broken you are until you do barre for the first time in months,2700,0.0,false,,
+1605368388,2018-05-25 00:00:00,bouldering w/ Ellie & co,Workout,"",3600,0.0,false,,
+1605369295,2018-05-25 11:30:00,le yoga w/ Ellie,Workout,"",1800,0.0,false,,
+1606148132,2018-05-30 10:04:26,All the parks >>> bathhouse,Run,Baa ram u,7903,19521.4,true,"",activities/1726160349.fit.gz
+1609761057,2018-05-31 13:30:00,pure barre,Workout,still broken.,2700,0.0,false,,
+1610785416,2010-01-01 00:00:00,Night Run,Run,,10369,23180.2,false,"",activities/1731105619.gpx.gz
+1611996254,2018-06-02 08:02:05,Hochkönigman 2018,Run,Salming Speed Trail,14602,23025.1,false,"",activities/1732399048.fit.gz
+1615247952,2018-06-03 17:24:47,"Sloth paced walk, stopped by savage dog",Hike,"",1373,1240.5,false,"",activities/1735839739.fit.gz
+1620215426,2018-06-06 04:05:22,Rainy last run in Europe 😢,Run,Happy Global Running Day! Quads still trashed from Hochkonigman ,4686,10604.2,false,"",activities/1741256703.fit.gz
+1624262004,2018-06-08 00:06:04,IC > Fluent City > Home,Ride,,3600,12874.8,true,Citi Bike,
+1624947179,2018-06-08 10:08:50,Dough-nut Run 🍩,Run,"",4547,10933.0,true,"",activities/1746372718.fit.gz
+1625982453,2018-06-08 21:17:31,Afternoon Ride,Ride,"",947,3653.3,true,Citi Bike,activities/1747469849.fit.gz
+1625982584,2018-06-08 23:36:11,Evening Ride,Ride,"",2230,8520.1,true,Citi Bike,activities/1747470047.fit.gz
+1626984640,2018-06-09 10:48:46,Baby Narwhals ,Run,"",5725,13723.9,false,"",activities/1748526759.fit.gz
+1627301442,2018-06-09 14:38:02,Morning Ride,Ride,,968,4356.6,false,Citi Bike,activities/1748859091.fit.gz
+1635657913,2018-06-13 09:52:37,Park loop w/ Ellie 🏃🏽‍♀️🏃🏽‍♀️,Run,"",3951,10575.6,false,"",activities/1757639461.fit.gz
+1642289084,2018-06-16 12:51:01,Chitown means no hill training 🙌🏼,Run,Still sickly but much improved,5775,16178.5,false,"",activities/1764579838.fit.gz
+1644661038,2018-06-17 13:17:10,To the croissants! 🥐☕️,Run,See you in August chica! ,3566,9682.1,false,"",activities/1767063119.fit.gz
+1644743157,2018-06-17 15:05:11,Lunch Ride,Ride,,1100,5008.2,false,Citi Bike,activities/1767148490.fit.gz
+1648163031,2018-06-19 10:16:42,Tigerwolves. 16 weeks to Chitown,Run,First workout since Boston 😂,5240,13359.1,false,"",activities/1770742924.fit.gz
+1648330649,2018-06-19 12:23:50,Sooo hot ,Ride,"",2936,11832.3,true,Citi Bike,activities/1770916286.fit.gz
+1649609803,2018-06-19 22:34:17,To Shake Shack 🍔,Ride,"When life gives you a partial L train shutdown, give in and get Shake a Shack for the G train ride.",1399,4588.4,true,Citi Bike,activities/1772242665.fit.gz
+1652725745,2018-06-21 12:13:25,le trajet,Ride,"",2854,11768.4,true,Citi Bike,activities/1775512151.fit.gz
+1653753144,2018-06-21 22:06:23,summer concert season,Ride,"",1112,5060.6,true,Citi Bike,activities/1776577242.fit.gz
+1654062958,2018-06-22 02:46:26,Dripping 💦💦💦,Ride,"",1395,7233.6,true,Citi Bike,activities/1776902468.fit.gz
+1656850137,2018-06-23 10:52:30,Yass Qweens 🏳️‍🌈,Run,Narwhals cheer on Pride Run,5248,13520.2,false,"",activities/1779816132.fit.gz
+1663265857,2018-06-26 09:32:31,Here for the coffee,Ride,"Great to see Erika, Patti, and Hollie at BTC! ",8901,39322.1,false,Citi Bike,activities/1786530788.fit.gz
+1663285881,2018-06-26 12:15:00,Nike abs ,Workout,"",900,0.0,false,,
+1664401688,2018-06-26 19:49:33,Afternoon Ride,Ride,"",917,3847.8,true,Sirène ,activities/1787698669.fit.gz
+1664401698,2018-06-26 21:42:18,Afternoon Ride,Ride,"",1806,8296.8,true,Sirène ,activities/1787698706.fit.gz
+1667569097,2018-06-28 10:53:39,Run and done,Run,Record low of 4 people in Prospect Park,4009,11777.2,true,"",activities/1790984046.fit.gz
+1671988934,2018-06-30 13:46:43,"Bridge Run, Hold the Bridge",Run,"Flyby + sweaty hug of solidarity with Anna.
+Also Domino Park 😍",2110,5342.1,false,"",activities/1795557226.fit.gz
+1673774514,2018-07-01 09:13:45,NYC TRI CHEER SQUAD,Run,Overlap with end-of-the-night people 😂,8275,19888.1,false,"",activities/1797422494.fit.gz
+1677073316,2018-07-02 12:04:11,Sweating bullets,Ride,"",3411,12910.9,true,Citi Bike,activities/1800842262.fit.gz
+1677073325,2018-07-02 21:59:07,Like 🔥,Run,"",4720,12890.3,true,"",activities/1800842279.fit.gz
+1677963897,2018-07-03 10:16:18,Actually just here for the coffee ☕️,Ride,Tuckered out from yesterday’s 2/2 active commutes ,6349,12001.8,true,Citi Bike,activities/1801762034.fit.gz
+1682411641,2018-07-05 11:40:42,Rolling to work,Ride,Here on out taking cold showers the second I get to work ❄️,2944,12941.9,true,Citi Bike,activities/1806355844.fit.gz
+1683717872,2018-07-06 00:29:18,Today in New York Moments,Ride,When you run into a former coworker at a Citi Bike station! 💙🚲,1724,6852.9,true,Citi Bike,activities/1807702845.fit.gz
+1683717886,2018-07-05 22:30:00,BTC speed,Run,2x 2mi tempo,5400,14892.8,false,"",activities/1807702832.fit.gz
+1684562362,2018-07-06 10:50:00,Help I did barre and can’t get up,Workout,,3300,0.0,false,,
+1684563485,2018-07-04 12:52:00,Barre,Workout,,3600,0.0,false,,
+1684564981,2018-07-05 12:40:00,Abs + foam roll,Workout,,1200,0.0,false,,
+1687206383,2018-07-07 13:03:44,Han(ley) Solo Ride,Ride,At least I thought this pun was hilarious during my ride...,17694,96370.8,false,Sirène ,activities/1811314226.fit.gz
+1689164008,2018-07-08 12:20:02,Tempo with Toni 🏃🏽‍♀️🏃🏽‍♀️,Run,"",6678,20664.0,false,"",activities/1813359799.fit.gz
+1689164394,2018-07-08 14:16:04,Le cooldown,Run,"",1412,3335.0,false,"",activities/1813360325.fit.gz
+1691081481,2018-07-09 11:58:32,Easy to work,Ride,"",2947,11784.4,true,Citi Bike,activities/1815381855.fit.gz
+1692099315,2018-07-09 21:40:33,中文輔導,Ride,"",1345,4500.3,true,Citi Bike,activities/1816432163.fit.gz
+1693122356,2018-07-10 09:35:41,"Last person to the ride, first person to coffee 😂",Ride,Stayed up cleaning a very squeaky bike chain. Fingers still Zoolander mining-level black. At least the chain is running better!,8574,39104.5,true,Sirène ,activities/1817504290.fit.gz
+1694398217,2018-07-10 22:26:04,Puppy escort 😍,Ride,"",2913,12655.1,false,Sirène ,activities/1818833016.fit.gz
+1694479673,2018-07-10 12:15:00,Pure barre abs + foam rolling,Workout,,1200,0.0,false,,
+1695285459,2018-07-11 09:58:28,BHWC pace lining 🚴‍♀️🚴‍♀️🚴‍♀️🚴‍♀️,Ride,"",6397,39139.1,true,Sirène ,activities/1819751355.fit.gz
+1695512412,2018-07-11 12:00:00,barre abs + foam rolling,Workout,"",1200,0.0,false,,
+1696501079,2018-07-11 21:58:27,Ride home,Ride,"",2648,12099.2,true,Sirène ,activities/1821013054.fit.gz
+1702200497,2018-07-14 12:11:43,Warm up,Run,"",645,1380.0,false,"",activities/1826937037.fit.gz
+1702201284,2018-07-14 12:30:19,Narragansett 10k - AG Win 🙌🏼🍻,Run,Photo cred to Liz,2729,9951.3,false,"",activities/1826937942.fit.gz
+1702201768,2018-07-14 13:24:47,Victory lap // cool down ,Run,"",1648,4604.3,false,"",activities/1826938369.fit.gz
+1704312631,2018-07-15 12:35:34,“That Asian guy who won the 5k is winning the half!”,Run,Shakeout w/Brinda and Lauren,2918,7661.0,false,"",activities/1829137828.fit.gz
+1707619026,2018-07-17 00:54:38,Crownimal Part 1: Night Owls 🦉,Run,Huge shout out to Ash and Alex for coming with me! ,6584,17546.2,false,"",activities/1832567650.fit.gz
+1707620678,2018-07-17 03:00:34,Roll home,Ride,,566,1770.28,false,Citi Bike,
+1708227104,2018-07-17 10:15:46,Crownimal Part 2: Tigerwolves 🐯🐺,Run,"",4114,10623.6,false,"",activities/1833197008.fit.gz
+1708227118,2018-07-17 11:25:23,Roll home,Ride,"",440,1790.1,false,Citi Bike,activities/1833197113.fit.gz
+1710567681,2018-07-17 11:55:17,Morning Ride,Ride,,1198,4540.5,false,Citi Bike,activities/1835620401.fit.gz
+1710568915,2018-07-18 09:46:46,Crownimal Part 3: Doves 🕊,Run,"",6039,15042.6,false,"",activities/1835621472.fit.gz
+1710568995,2018-07-18 11:28:25,Roll home,Ride,"",451,1784.7,false,Citi Bike,activities/1835621600.fit.gz
+1712968964,2018-07-19 12:20:27,Morning Ride,Ride,,507,1772.2,false,Citi Bike,activities/1838100937.fit.gz
+1712968974,2018-07-19 10:14:18,Crownimal Part 4: Hellkatz 🐆👑,Run,"Quadruple Crownimal completed, achievement unlocked 🍩☕️👑",2779,6611.2,false,"",activities/1838100908.fit.gz
+1716067118,2018-07-20 19:35:18,Easy Breezy Rockaways Run ,Run,"",7831,16713.5,false,"",activities/1841307912.fit.gz
+1721210420,2018-07-22 17:54:34,Tempo with Toni,Run,Roosevelt Island Edition,9295,25335.5,false,"",activities/1847365828.fit.gz
+1724371762,2018-07-24 10:16:59,Ride to run,Ride,"",1323,6219.5,true,Citi Bike,activities/1850655840.fit.gz
+1724378874,2018-07-24 10:39:19,Catching up wit Ms. Norton > 🥐☕️,Run,Legs are dead post-accidental 57-mile week,4846,12872.6,false,"",activities/1850663131.fit.gz
+1728900614,2018-07-26 12:02:45,Morning Ride,Ride,"",602,1809.7,true,Citi Bike,activities/1855361298.fit.gz
+1728900629,2018-07-26 09:59:32,Crownimal Ceremony + Sudo Track w/ Toni & Karina,Run,🍩☕️👑🐆,4401,11180.0,false,"",activities/1855361279.fit.gz
+1730383965,2018-07-27 01:40:02,Same as the train!,Run,With 🎒+💻,2912,6853.6,true,"",activities/1856895526.fit.gz
+1733112021,2018-07-28 10:43:44,Capitol Hill Run Club 🏛,Run,Sad I couldn’t cheer on NBR at Team Champs but great to meet up with some DC runners!,6237,20275.4,false,"",activities/1859722747.fit.gz
+1736813901,2018-07-29 20:30:10,Quality trail time,Run,"",8671,24260.6,false,"",activities/1863578515.fit.gz
+1746794884,2018-08-03 11:18:31,Salmon Run,Run,"",2312,4203.4,false,"",activities/1874110986.fit.gz
+1755829221,2018-08-07 09:50:06,Iconic NYC Runs #1,Run,Brooklyn Bridge x lower Manhattan loop w/ Ellie,6924,16781.5,false,"",activities/1885042668.fit.gz
+1758105865,2018-08-08 10:05:02,Iconic NYC Runs #2,Run,Gantry w/ Kaitlyn 🌇,5171,13799.9,false,"",activities/1887685016.fit.gz
+1760433447,2018-08-09 10:48:16,Toni Track ™️,Run,"",3812,10100.7,false,"",activities/1890250168.fit.gz
+1767200253,2018-08-12 10:34:16,Trying out CARs,Run,"",10282,27467.4,false,"",activities/1897297737.fit.gz
+1769539792,2018-08-13 13:11:24,First Day of School 🤓,Ride,Pro tip: you can only ride up to 30 minutes at a time on Capital Bikeshare (not 45 like Citi Bike). Oops.,2024,5912.6,true,Capital Bikeshare,activities/1899725322.fit.gz
+1770085059,2018-08-13 19:26:31,CaBi back,Ride,"",2626,8608.6,true,Capital Bikeshare,activities/1900284816.fit.gz
+1771388202,2018-08-14 11:27:05,"New loop, a little lost",Run,"",5509,14837.7,false,"",activities/1901625319.fit.gz
+1771485558,2018-08-14 13:31:32,Made it in under 30!,Ride,"",1455,6127.5,true,Capital Bikeshare,activities/1901727006.fit.gz
+1772536775,2018-08-14 19:34:00,CaBi back,Ride,,1523,5632.72,true,Capital Bikeshare,
+1773893838,2018-08-15 12:38:39,Morning ride,Ride,"",1499,6357.0,true,Capital Bikeshare,activities/1904210886.fit.gz
+1774724276,2018-08-15 19:02:32,Afternoon Ride,Ride,"",1621,6029.8,true,Capital Bikeshare,activities/1905062811.fit.gz
+1775142074,2018-08-15 23:05:18,Mixed intervals,Run,I take back everything I’ve ever said about DC being flat 😓,3775,11604.7,false,"",activities/1905496017.fit.gz
+1776102439,2018-08-16 12:34:21,Extra swampy,Ride,"",1523,6473.2,true,Capital Bikeshare,activities/1906487110.fit.gz
+1776981825,2018-08-16 19:11:56,Hot AF,Run,With 💻🎒,2574,6604.2,true,"",activities/1907391310.fit.gz
+1779019418,2018-08-17 12:13:24,Morning Ride,Ride,"",1418,6270.4,true,Capital Bikeshare,activities/1909482871.fit.gz
+1779019544,2018-08-17 19:33:42,Afternoon Ride,Ride,"",1300,5763.8,true,Capital Bikeshare,activities/1909482996.fit.gz
+1779211754,2018-08-17 21:12:51,Like 🔥,Run,Tempo attempt in a “feels like” of 102*F,5605,16573.3,false,"",activities/1909682426.fit.gz
+1780324180,2018-08-18 10:25:02,CHRC “recovery” ,Run,"",6912,17326.8,false,"",activities/1910835770.fit.gz
+1783027779,2018-08-19 10:40:52,Toast. 😵,Run,Did someone say toast?,11752,32354.5,false,"",activities/1913635653.fit.gz
+1785515221,2018-08-20 13:05:10,Cooler weather 👌,Ride,"",1465,6184.4,true,Capital Bikeshare,activities/1916208642.fit.gz
+1785965550,2018-08-20 19:18:25,"Nope, still summer",Ride,"",1612,6883.0,true,Capital Bikeshare,activities/1916669343.fit.gz
+1787669610,2018-08-21 13:25:12,Rainy ride,Ride,"",1721,6131.0,true,Capital Bikeshare,activities/1918415531.fit.gz
+1788473366,2018-08-21 20:51:37,Afternoon Ride,Ride,"",1783,7222.8,true,Capital Bikeshare,activities/1919238376.fit.gz
+1788680565,2018-08-21 22:00:53,Yog,Run,"",6242,16944.0,false,"",activities/1919450577.fit.gz
+1789793761,2018-08-22 13:22:18,Fastest yet 🙌🏼,Ride,Trade-off: very sweaty ,1538,7328.9,true,Capital Bikeshare,activities/1920591951.fit.gz
+1790631192,2018-08-22 19:12:09,Afternoon Ride,Ride,"",1689,6783.0,true,Capital Bikeshare,activities/1921448055.fit.gz
+1790820467,2018-08-22 20:22:56,Mixed intervals ☀️,Run,"",3718,11505.8,false,"",activities/1921640039.fit.gz
+1790839576,2018-08-22 21:25:28,Afternoon Run,Run,"",629,830.9,false,"",activities/1921659797.fit.gz
+1792088283,2018-08-23 13:04:03,Yog to class,Run,"",2702,6584.6,true,"",activities/1922941609.fit.gz
+1792881836,2018-08-23 19:16:53,Afternoon Ride,Ride,"",1620,7240.4,true,Capital Bikeshare,activities/1923756834.fit.gz
+1796915432,2018-08-25 16:55:01,Easy to the trail,Run,"",3327,8700.4,false,"",activities/1927924820.fit.gz
+1799050364,2018-08-26 13:41:40,9 @ MP ,Run,Missing Sundays w/@Toni 😢,7300,21261.0,false,"",activities/1930122043.fit.gz
+1799096852,2018-08-26 15:55:05,Because this is faster than walking home ,Run,"",570,1287.8,false,"",activities/1930170751.fit.gz
+1800820751,2018-08-27 13:22:59,Sweaty,Ride,"",1425,6255.9,true,Capital Bikeshare,activities/1931945941.fit.gz
+1803824329,2018-08-28 19:12:09,Afternoon Ride,Ride,,1138,5508.3,false,Capital Bikeshare,activities/1935012305.fit.gz
+1804209544,2018-08-28 21:49:42,Trails in an attempt to cheat the heat,Run,"",6024,13734.2,false,"",activities/1935407127.fit.gz
+1805251153,2018-08-29 12:55:19,Sweat,Ride,"",1523,6166.5,true,Capital Bikeshare,activities/1936477827.fit.gz
+1806281385,2018-08-29 20:55:41,More sweat,Ride,"",1854,7607.9,true,Capital Bikeshare,activities/1937530686.fit.gz
+1806410925,2018-08-29 22:07:20,I tried 🤷🏻‍♀️,Run,Cut by half-ish to avoid cooking myself 🍳,3647,10976.4,false,"",activities/1937664805.fit.gz
+1812317201,2018-09-01 15:55:28,Easy before tomorrow’s long run from hell,Run,"",2867,8055.8,false,"",activities/1943719160.fit.gz
+1812771193,2018-09-01 18:05:16,Afternoon Ride,Ride,,1678,6635.2,false,Capital Bikeshare,activities/1944189539.fit.gz
+1814550089,2018-09-02 10:58:19,22 w/ 2x4mi @ MP,Run,Next up: naaaaaap 😴,13389,35704.7,false,"",activities/1946026466.fit.gz
+1818753375,2018-09-04 12:47:40,"Less a trail run, more a skirmish with Nature ",Run,"",4560,8377.0,false,"",activities/1950350587.fit.gz
+1820826514,2018-09-05 10:58:38,Mixed intervals lite ☀️,Run,"",3377,10010.5,false,"",activities/1952475546.fit.gz
+1826076294,2018-09-07 21:19:05,Afternoon Run,Run,,160,427.4,false,"",activities/1957858779.fit.gz
+1826132243,2018-09-07 21:26:19,⚡️Lighting + Flash Flood⛈,Run,Baby tempo before tune-up half Sunday ,2427,7371.4,false,"",activities/1957916333.fit.gz
+1828783835,2018-09-08 15:32:04,Shake out,Run,"",1410,3227.3,false,"",activities/1960659359.fit.gz
+1829436094,2018-09-09 10:09:36,Yog to bib pickup,Run,"",786,1870.8,false,"",activities/1961324652.fit.gz
+1829592448,2018-09-09 11:04:47,Warmup yog,Run,"",616,1642.0,false,"",activities/1961515698.fit.gz
+1829944339,2018-09-09 11:31:28,9-11 Memorial Half🥉,Run,3rd Female Overall in my second monsoon race of the year! On flooded gravel trail #nature,6131,21111.4,false,"",activities/1961880122.fit.gz
+1832190900,2018-09-10 13:03:19,Morning Ride,Ride,"",1907,7275.2,true,Capital Bikeshare,activities/1964207745.fit.gz
+1833337622,2018-09-10 22:02:52,"Cooler, humid-er",Run,"",7127,18792.3,false,"",activities/1965379273.fit.gz
+1833337678,2018-09-11 00:12:09,Evening Ride,Ride,"",718,2822.0,true,Capital Bikeshare,activities/1965379369.fit.gz
+1835424192,2018-09-11 20:42:01,Mixed intervals ☁️💦,Run,"Closer and closer to goal paces 👊🏼
+Also lol Garmin map fail",4097,13017.7,false,"",activities/1967523901.fit.gz
+1841809029,2018-09-14 22:17:18,Misery 😩,Run,Boooo colds 🤧,6974,20610.8,false,"",activities/1974079380.fit.gz
+1845774703,2018-09-16 10:52:04,10.5 hours of sleep is the cure for everything,Run,Fitzgerald is a masochist.,14777,35849.4,false,"",activities/1978197339.fit.gz
+1853335859,2018-09-19 23:04:41,Warm up,Run,"",968,2907.5,false,"",activities/1986035070.fit.gz
+1853336269,2018-09-19 23:21:29,Pitch black 👀,Run,+Headlamp burned out immediately  👎🏼,4753,13531.6,false,"",activities/1986035473.fit.gz
+1855288582,2018-09-20 21:54:45,Tidal Basin,Run,"",4810,12567.7,false,"",activities/1988069170.fit.gz
+1858377746,2018-09-22 11:23:22,Surprise! 👋🏼💕🌇,Run,Literally stopping to smell the roses (read: lavender) ,9869,21822.0,false,"",activities/1991311063.fit.gz
+1863564937,2018-09-24 20:46:26,Bagel detox,Run,"",2397,6462.3,false,"",activities/1996665093.fit.gz
+1865879357,2018-09-25 22:09:51,When does it get less humid here?,Run,"",5965,16119.0,false,"",activities/1999036407.fit.gz
+1875312267,2018-09-30 11:33:03,59 degrees 😍,Run,1 week to Chitown!! ,3960,11301.0,false,"",activities/2008823182.fit.gz
+1876060660,2018-09-30 16:48:21,Study time,Ride,,1008,2253.09,false,Capital Bikeshare,
+1880463925,2018-10-02 22:25:37,Nike guided run 👌🏼,Run,"",2127,5552.6,false,"",activities/2014129906.fit.gz
+1888029323,2018-10-06 13:39:07,🍩NBR Doughnut Run Chicago Edition 🍩,Run,"",3661,5635.0,false,"",activities/2021897203.fit.gz
+1890481713,2018-10-07 12:38:26,Chicago Marathon 2018🍻,Run,"So proud of all my friends who raced today!! There were some seriously impressive PRs. 
+
+As for me, at least I didn’t PR in the first half this time 😉",12735,42529.3,false,"",activities/2024448803.fit.gz
+1902251990,2018-10-13 14:21:03,Fall?! 😍,Run,"A Hong Kong-level of people running in long sleeves, tights, and the occasional puffy vest 😂",3463,9852.0,false,"",activities/2036695790.fit.gz
+1907333923,2018-10-15 22:04:52,Run >>> 🍕,Run,"",5212,11341.6,false,"",activities/2042025290.fit.gz
+1909331560,2018-10-16 22:06:59,First tempo back 👊🏼,Run,"",3334,9873.2,false,"",activities/2044078951.fit.gz
