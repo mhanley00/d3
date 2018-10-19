@@ -2,7 +2,7 @@
 d3.select('h1').style('color', 'white')
 .style('font-family', 'sans-serif')
 .attr('class', 'heading')
-.text('My First D3 Website');
+.text('The D3 Universe');
 
 // var dataset;
 // var parseTime = d3.timeParse("%Y-%m-%d %H:%M:%S");
@@ -121,7 +121,7 @@ d3.select('h1').style('color', 'white')
 
 var dataset2 = [[92], [72], [41], [102], [10], [201]];
 
-var svgWidth = 500, svgHeight = 250, barPadding = 5;
+var svgWidth = 1000, svgHeight = 250, barPadding = 5;
 var barWidth = (svgWidth / dataset2.length);
 
 
